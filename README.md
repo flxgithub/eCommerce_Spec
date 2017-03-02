@@ -1,44 +1,61 @@
-# Ecommerce (Circle) {#ecommerce-circle}
+# Ecommerce \(Circle\) {#ecommerce-circle}
 
-（App评价流程）买家如何给商品进行评价Rating for products
+#### **（App评价流程）买家如何给商品进行评价Rating for products**
 
-产品评价的组件Rating component for product review
+![](/assets/1.png)
 
-Buyers interact with rating &amp; review module.
+![](/assets/2.png)
 
-In review page (待评价页)
+#### 
 
-*   buyer share to circle button
-*   Navigate to view product link
-*   Write review button
-*   Upload photo button
+#### **产品评价的组件Rating component for product review**
 
-Product review page（商品评价页）
+Buyers interact with rating & review module.
 
-*   3 radio button Good, Average, Bad.
-*   Tab Review between 10 – 130 words.
-*   Rating bar on service type: Merchandise description, seller services, shipping evaluation.
-*   Submit Button
-*   *Seller name didn’t show on front store.
-*   *Distributed comments cannot be edit and change.
+**In review page \(待评价页\)**
 
-评价如何被展现How users rating display on product review page?
+* buyer share to circle button ![](/assets/4.png)
+* Navigate to view product link ![](/assets/5.png)
+* Write review button ![](/assets/6.png)
+* Upload photo button ![](/assets/7.png)
 
-*   Rating bar reflect on seller product page: can do sorting based on reviews
+**Product review page（商品评价页**）
 
-(All Review)
+* 3 radio button Good, Average, Bad. ![](/assets/8.png)
+* Tab Review between 10 – 130 words. ![](/assets/9.png)
+* Rating bar on service type: Merchandise description, seller services, shipping evaluation. 
 
-4 stars (Good)
+![](/assets/10.png)
 
-3 stars (Average)
+* Submit Button ![](/assets/11.png)
+* \*Seller name didn’t show on front store.
+* \*Distributed comments cannot be edit and change.
 
-1-2 stars (Bad)
 
-Image review
 
-*   Display buyers profile image and hidden name
-*   Display date of comment
-*   Rating display based on
+#### **评价如何被展现How users rating display on product review page?**
+
+![](/assets/12.png)
+
+![](/assets/13.png)
+
+* Rating bar reflect on seller product page: can do sorting based on reviews
+
+\(All Review\)![](/assets/14.png)
+
+4 stars \(Good\)![](/assets/15.png)
+
+3 stars \(Average\)![](/assets/16.png)
+
+1-2 stars \(Bad\)![](/assets/17.png)
+
+Image review![](/assets/18.png)
+
+![](/assets/19.png)
+
+* Display buyers profile image and hidden name![](/assets/20.png)
+* Display date of comment ![](/assets/21.png)
+* ![](/assets/22.png)Rating display based on ![](/assets/23.png)
 
 好评4-5 stars
 
@@ -46,5 +63,8 @@ Image review
 
 差评 1-2 stars
 
-*   Display Purchase date
-*   Third party give review comment or like
+* Display Purchase date ![](/assets/24.png)
+* Third party give review comment or like ![](/assets/25.png)
+
+
+
