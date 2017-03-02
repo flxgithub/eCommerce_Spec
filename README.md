@@ -31,6 +31,12 @@ Buyers interact with rating & review module.
 * \*Seller name didn’t show on front store.
 * \*Distributed comments cannot be edit and change.
 
+#### **How to share product details to Circle？ 如何发商品到购物圈？**
+
+不同的平台都会有相应的互动平台或是圈子，现在是一个全国网络的时代，用户可以发布信息或提出看法，可根据各自的朋友圈在线进行互动与结识志同道合的朋友。
+
+
+
 
 
 #### **评价如何被展现How users rating display on product review page?**
