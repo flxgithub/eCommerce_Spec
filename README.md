@@ -1,35 +1,36 @@
 # Ecommerce \(Review + Share circle\) {#ecommerce-circle}
 
-#### **（App评价流程）买家如何给商品进行评价Rating for products**
+---
+
+## ECommerce 有两个途径给会员去做评论和分享
+
+* 会员管理
+
+* 商品页面
+
+
+
+## 1. 会员管理
+
+买家通过会员管理画面-》评价中心去给商品进行评价Rating for products
+
+### Step 1进入会员画面选择待评价，就会去到评价中心
 
 ![](/assets/1.png)
 
+### Step 2
+
 ![](/assets/2.png)
 
-#### 
+#### 建议加 Upload photo Button 
 
-#### **产品评价的组件Rating component for product review**
-
-Buyers interact with rating & review module.
-
-**In review page \(待评价页\)**
-
-* buyer share to circle button ![](/assets/4.png)
-* Navigate to view product link ![](/assets/5.png)
-* Write review button ![](/assets/6.png)
 * Upload photo button ![](/assets/7.png)
 
-**Product review page（商品评价页**）
 
-* 3 radio button Good, Average, Bad. ![](/assets/8.png)
-* Tab Review between 10 – 130 words. ![](/assets/9.png)
-* Rating bar on service type: Merchandise description, seller services, shipping evaluation. 
 
-![](/assets/10.png)
 
-* Submit Button ![](/assets/11.png)
-* \*Seller name didn’t show on front store.
-* \*Distributed comments cannot be edit and change.
+
+
 
 #### **How to share product details to Circle？ 如何发商品到购物圈？**
 
@@ -59,7 +60,7 @@ Image review![](/assets/18.png)
 
 * Display buyers profile image and hidden name![](/assets/20.png)
 * Display date of comment ![](/assets/21.png)
-* ![](/assets/22.png)Rating display based on ![](/assets/23.png)
+* ![](/assets/22.png\)Rating display based on ![]\(/assets/23.png)
 
 好评4-5 stars
 

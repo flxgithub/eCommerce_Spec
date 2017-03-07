@@ -1,4 +1,3 @@
-# {%module%}
 # Summary
 
 * [Ecommerce \(Review+Share Circle\)](README.md)
@@ -6,14 +5,12 @@
 * [Overview](overview.md)
 * [Basic](basic.md)
   * [First Page](overview/first-page.md)
-  * Category
-  * Discovery
-  * Shopping Cart
+  * [Category](overview/category.md)
+  * [Discovery](overview/discovery.md)
+  * [Shopping Cart](overview/shopping-cart.md)
   * Membership
   * Search
   * [Circle](basic/circle.md)
-  * Chatting
+  * [Chatting](overview/chatting.md)
 * [Advance](advance.md)
-
-
 
