@@ -8,6 +8,8 @@
 
 * 商品页面
 
+---
+
 ## 1. 会员管理
 
 买家通过会员管理画面-》评价中心去给商品进行评价Rating for products
@@ -23,6 +25,10 @@
 #### 建议加 Upload photo Button
 
 * Upload photo button ![](/assets/7.png)
+
+---
+
+## 2.商品页面
 
 #### **How to share product details to Circle？ 如何发商品到购物圈？**
 
