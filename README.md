@@ -1,4 +1,4 @@
-# Ecommerce \(Review + Share circle\) {#ecommerce-circle}
+# Ecommerce \(Review\) {#ecommerce-circle}
 
 ---
 
