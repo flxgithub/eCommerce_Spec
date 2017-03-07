@@ -1,10 +1,9 @@
 # Summary
 
 * [Ecommerce \(Review+Share Circle\)](README.md)
-* [Ecommerce \(Me\)](ecommerce-\(me\).md)
 * [Overview](overview.md)
 * [Basic](basic.md)
-  * [First Page](overview/first-page.md)
+  * [Landing page](overview/first-page.md)
   * [Category](overview/category.md)
   * [Discovery](overview/discovery.md)
   * [Shopping Cart](overview/shopping-cart.md)
