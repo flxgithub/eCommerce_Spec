@@ -30,17 +30,21 @@
 
 Use Case Diagram主要是描述一個系統或類別提供給外界之交互作用者的功能。簡單來說就是說明一個系統的功能及其使用者。
 
-&lt;&lt;Extend&gt;&gt;：
+&lt;&lt;Actor&gt;&gt;： 人物对系统互动，有非会员，会员，商家，管理员
 
-單一Use Case的功能完全包含到叧一個 Use Case，如下例 : 用户搜索产品不一定会去购买结帐。
+&lt;&lt;Use Case&gt;&gt;：使用案例描述系統要完成的成果，是一个动作
 
-&lt;&lt;Include&gt;&gt;:
+&lt;&lt;Extend&gt;&gt;：單一Use Case的功能完全包含到叧一個 Use Case，如下例 : 用户搜索产品不一定会去购买结帐。
 
-單一Use Case的功能完全包含到叧一個 Use Case，如下例，用户必须要搜索产品，才会有出现浏览记录。
-
-
+&lt;&lt;Include&gt;&gt;：單一Use Case的功能完全包含到叧一個 Use Case，如下例，用户必须要搜索产品，才会有出现浏览记录。
 
 ![](/assets/UseCaseDiagram1.jpg)
+
+---
+
+# **Use Case Specification**
+
+將Use Case執行的前置條件\(Pre-Conditions\)、後置條件\(Post-Conditions\)與各種主要流程與替代流程的列出，到時候測試時就要將這些流程都測過才算一個完整個測試。
 
 
 
