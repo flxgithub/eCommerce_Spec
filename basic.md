@@ -28,5 +28,7 @@
 
 # Use Case Diagram
 
+Use Case Diagram主要是描述一個系統或類別提供給外界之交互作用者的功能。簡單來說就是說明一個系統的功能及其使用者。
+
 ![](/assets/UseCase1skyhub.jpg)
 
