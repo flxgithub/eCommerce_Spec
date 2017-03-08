@@ -26,9 +26,7 @@
 
 ---
 
-# Use Case 
+# Use Case Diagram
 
 ![](/assets/UseCase1skyhub.jpg)
-
-
 
