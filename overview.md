@@ -4,18 +4,30 @@
 
 系統的開發週期簡單的分可以分成三的階段：
 
-* 系统分析
+* 商业流程 \(Business Flow\)
 
-* 系統設計
+* 系统分析 \(System Analysis\) Please refer to PPT - App商城分析文档1.0 
 
-* 系統實作
+* 系統設計 \(System Design\)
+
+* 系統實作 \(System Implementation\)
 
 以下分析系统为：
 
 1. 手机用户页面
 2. 网页用户页面
 
-# Business Flow
+---
+
+# Business Flow （商业流程）
 
 ![](/assets/Overview.png)![](/assets/BusinessFlow.png)
+
+---
+
+# System Analysis （系统分析）
+
+
+
+
 
