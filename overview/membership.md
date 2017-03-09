@@ -15,6 +15,21 @@
 
 ---
 
+# Use Case Assumptions, Preconditions and Post-conditions
+
+| Use Case Name |  |
+| :--- | :--- |
+| Description |  |
+| Assumptions |  |
+| Pre-conditions |  |
+| Initiation \(Triggering event\) |  |
+| Main flow of events |  |
+| Post-conditions |  |
+
+
+
+
+
 # Database
 
 | Field | Type | Null | Default | Extra |
@@ -23,13 +38,14 @@
 | member\_name | varchar\(50\) | No |  | 会员名称 |
 | member\_truename | varchar\(20\) | Yes |  | 真实姓名 |
 | member\_avatar | varchar\(50\) | Yes |  | 会员头像 |
+| member\_sex | varchar\(10\) | Yes |  | 会员性别 |
 | member\_pwd | varchar\(32\) | No |  | 密码 |
 | member\_addtime | int\(11\) | No | 0 | 注册时间 |
 | member\_epoints | int\(11\) | No | 0 | 会员积分 |
-| member\_state | tinyint\(1\) | No |  | 开启状态0关闭，1开启 |
-| member\_loginnum | int\(11\) | No |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| member\_state | tinyint\(1\) | No | 1 | 开启状态0关闭，1开启 |
+| member\_loginnum | int\(11\) | No | 0 | 登入次数 |
+| member\_phone | int\(20\) | Yes |  | 会员电话 |
+| member\_birthday | varchar\(10\) | No |  | 生日日期 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
