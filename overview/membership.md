@@ -9,7 +9,7 @@
 
 ---
 
-# User Interface
+# User Interface 会员页面
 
 ![](/assets/Membership.png)![](/assets/会员.png)
 
@@ -25,10 +25,6 @@
 | Initiation \(Triggering event\) |  |
 | Main flow of events |  |
 | Post-conditions |  |
-
-
-
-
 
 # Database
 
