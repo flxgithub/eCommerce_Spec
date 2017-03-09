@@ -26,8 +26,8 @@
 | member\_pwd | varchar\(32\) | No |  | 密码 |
 | member\_addtime | int\(11\) | No | 0 | 注册时间 |
 | member\_epoints | int\(11\) | No | 0 | 会员积分 |
-| member\_state | tinyint\(1\) | No |  | 开启状态0关闭，1开启 |
-| member\_loginnum | int\(11\) | No |  |  |
+| member\_state | tinyint\(1\) | No | 1 | 开启状态0关闭，1开启 |
+| member\_loginnum | int\(11\) | No | 0 | 登入次数 |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
