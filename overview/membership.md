@@ -1,9 +1,3 @@
- 
-
-# 
-
-# {%endmethod%}
-
 # Membership  会员制模块
 
 ---
@@ -22,6 +16,24 @@
 ---
 
 # Database
+
+| Field | Type | Null | Default | Extra |
+| :--- | :--- | :--- | :--- | :--- |
+| member\_id | int\(11\) | No |  | 会员ID |
+| member\_name | varchar\(50\) | No |  | 会员名称 |
+| member\_truename | varchar\(20\) | Yes |  | 真实姓名 |
+| member\_avatar | varchar\(50\) | Yes |  | 会员头像 |
+| member\_pwd | varchar\(32\) | No |  | 密码 |
+| member\_addtime | int\(11\) | No | 0 | 注册时间 |
+| member\_epoints | int\(11\) | No | 0 | 会员积分 |
+| member\_state | tinyint\(1\) | No |  | 开启状态 |
+| member\_loginnum | int\(11\) | No |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 
 
