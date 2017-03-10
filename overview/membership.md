@@ -13,7 +13,7 @@
 
 ![](/assets/Membership.png)![](/assets/会员.png)
 
-当用户点击自己头像，就会去个人信息管理的页面
+当用户点击自己头像，就会去个人“信息管理”的页面
 
 ![](/assets/Profile Management.png)![](/assets/账户管理.png)
 
@@ -25,16 +25,24 @@
 
 × 性别：男，女，保密
 
+
+
+当用户点击会员特权，会进入“会员特区”
+
+![](/assets/会员特区.png)![](/assets/member's privilige.png)
+
 ---
+
+# 
 
 # Use Case Assumptions, Preconditions and Post-conditions
 
-| Use Case Name |  |
+| Use Case Name | 订单查询 |
 | :--- | :--- |
-| Description |  |
+| Description | 当用户进行查看产品订单 |
 | Assumptions |  |
-| Pre-conditions |  |
-| Initiation \(Triggering event\) |  |
+| Pre-conditions | 会员必须购买了才会产生订单 |
+| Initiation \(Triggering event\) | 当去结算付款成功后系统产生订单号 |
 | Main flow of events |  |
 | Post-conditions |  |
 
