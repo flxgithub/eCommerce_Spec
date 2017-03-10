@@ -13,6 +13,12 @@
 
 ![](/assets/Membership.png)![](/assets/会员.png)
 
+当用户点击自己头像，就会去个人信息管理的页面
+
+![](/assets/Profile Management.png)![](/assets/账户管理.png)
+
+
+
 ---
 
 # Use Case Assumptions, Preconditions and Post-conditions
