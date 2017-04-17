@@ -25,15 +25,11 @@
 
 × 性别：男，女，保密
 
-
-
 当用户点击会员特权，会进入“会员特区”
 
 ![](/assets/会员特区.png)![](/assets/member's privilige.png)
 
 ---
-
-# 
 
 # Use Case Assumptions, Preconditions and Post-conditions
 

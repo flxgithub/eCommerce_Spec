@@ -1,5 +1,6 @@
 # Summary
 
+* [Introduction](README.md)
 * [Overview](overview.md)
 * [Basic](basic.md)
   * [Landing page 主页](overview/first-page.md)
@@ -12,6 +13,6 @@
   * [Chatting 聊天客服](overview/chatting.md)
   * [Review 评论区](overview/review.md)
 * [Advance](advance.md)
-
-
+* [Admin Panel 会员看板](admin-panel-hui-yuan-kan-ban.md)
+* [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
 
