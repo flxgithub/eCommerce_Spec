@@ -39,9 +39,9 @@ file:///C:/Users/User/Downloads/Intro%20to%20SC%20F2F-Ver%202.0-June.pdf
 
 ##### In my Opinion
 
-Merchant dashboard would have 3 display boards.
+Merchant dashboard would have a main Fast Track display board. Which includes:
 
-
+#### Fast Track Board![](/assets/Fast_Track.png)
 
 
 
