@@ -20,11 +20,7 @@ file:///C:/Users/User/Downloads/Intro%20to%20SC%20F2F-Ver%202.0-June.pdf
 2. Manage your Product List \(Approved products, Stock level\)
 3. Manage your Finance & Payments 
 
-
-
 ## **Merchant Functionality**![](/assets/Merchant Board Management.png)
-
-
 
 1. Dashboard 
 2. Profile Setting 
@@ -37,9 +33,15 @@ file:///C:/Users/User/Downloads/Intro%20to%20SC%20F2F-Ver%202.0-June.pdf
 
 ---
 
-### **Dashboard**
+### **Dashboard**![](/assets/Mdashboard.png)![](/assets/Dashboard2.png)![](/assets/MLazada.png)
 
-![](/assets/Dashboard1.png)
+#### ![](/assets/Mpanel1.png)
+
+##### In my Opinion
+
+Merchant dashboard would have 3 display boards.
+
+
 
 
 
