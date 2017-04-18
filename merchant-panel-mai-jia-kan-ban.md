@@ -43,5 +43,17 @@ Merchant dashboard would have a main Fast Track display board. Which includes:
 
 #### Fast Track Board![](/assets/Fast_Track.png)
 
+### Product Board
+
+Product Creation In Last few weeks
+
+Approved product ---10
+
+Rejected product --- 3 
+
+Pending product ---15
+
+Product out of stock ---2
+
 
 
