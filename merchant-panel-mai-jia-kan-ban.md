@@ -43,15 +43,13 @@ Merchant dashboard would have a main Fast Track display board, product board and
 
 ### Example view:
 
-
-
 #### Fast Track Board![](/assets/Fast_Track.png)
 
 ### 
 
 #### Product Board
 
-----------------------------------------------------------------------
+---
 
 Product Creation In Last few weeks
 
@@ -63,15 +61,15 @@ Pending product ---15
 
 Product out of stock ---2
 
-----------------------------------------------------------------------
+---
 
-View more &gt;&gt;    Link to product list 
+View more &gt;&gt;    Link to product list
 
 ---
 
 #### Order Board
 
-----------------------------------------------------------------------
+---
 
 Total Order ---3
 
@@ -79,9 +77,11 @@ Total Sales ---3k
 
 Total buyer ---5
 
-----------------------------------------------------------------------
+---
 
-View More &gt;&gt;&gt;   Link to order list 
+View More &gt;&gt;&gt;   Link to order list
+
+
 
 
 
