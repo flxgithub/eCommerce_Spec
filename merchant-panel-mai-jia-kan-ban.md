@@ -53,13 +53,13 @@ Merchant dashboard would have a main Fast Track display board, product board and
 
 Product Creation In Last few weeks
 
-Approved product ---10
+Approved product -10
 
-Rejected product --- 3
+Rejected product - 3
 
-Pending product ---15
+Pending product -15
 
-Product out of stock ---2
+Product out of stock -2
 
 ---
 
@@ -81,7 +81,23 @@ Total buyer ---5
 
 View More &gt;&gt;&gt;   Link to order list
 
+---
 
+
+
+#### Fast Track 
+
+---
+
+Revenue - RM35k
+
+Last Order - Alfa Chair
+
+Best Selling Product - Beta Tea Table
+
+Hot Product Search - Ring Table 
+
+---
 
 
 

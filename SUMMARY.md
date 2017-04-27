@@ -14,5 +14,14 @@
   * [Review 评论区](overview/review.md)
 * [Advance](advance.md)
 * [Admin Panel 管理员看板](admin-panel-hui-yuan-kan-ban.md)
+  * [Dashboard ](admin-panel-hui-yuan-kan-ban/dashboard.md)
 * [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
+  * [Dashboard](merchant-panel-mai-jia-kan-ban/dashboard.md)
+  * Profile Setting
+  * Merchant Support 
+  * Product Management 
+  * Order Management 
+  * Finance Report Management
+  * Advertisement Management Package
+  * Promotion Management 
 
