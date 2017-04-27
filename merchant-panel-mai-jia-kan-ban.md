@@ -20,11 +20,7 @@ file:///C:/Users/User/Downloads/Intro%20to%20SC%20F2F-Ver%202.0-June.pdf
 2. Manage your Product List \(Approved products, Stock level\)
 3. Manage your Finance & Payments 
 
-
-
 ## **Merchant Functionality**![](/assets/Merchant Board Management.png)
-
-
 
 1. Dashboard 
 2. Profile Setting 
@@ -37,9 +33,55 @@ file:///C:/Users/User/Downloads/Intro%20to%20SC%20F2F-Ver%202.0-June.pdf
 
 ---
 
-### **Dashboard**
+### **Dashboard**![](/assets/Mdashboard.png)![](/assets/Dashboard2.png)![](/assets/MLazada.png)
 
-![](/assets/Dashboard1.png)
+#### ![](/assets/Mpanel1.png)
+
+##### In my Opinion
+
+Merchant dashboard would have a main Fast Track display board, product board and order board. Which includes:
+
+### Example view:
+
+#### Fast Track Board![](/assets/Fast_Track.png)
+
+### 
+
+#### Product Board
+
+---
+
+Product Creation In Last few weeks
+
+Approved product ---10
+
+Rejected product --- 3
+
+Pending product ---15
+
+Product out of stock ---2
+
+---
+
+View more &gt;&gt;    Link to product list
+
+---
+
+#### Order Board
+
+---
+
+Total Order ---3
+
+Total Sales ---3k
+
+Total buyer ---5
+
+---
+
+View More &gt;&gt;&gt;   Link to order list
+
+
 
 
 
