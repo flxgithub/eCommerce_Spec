@@ -2,16 +2,18 @@
 
 ---
 
-| First Name \*\* | Merchant Profile Information  |  |
+| First Name \*\* | Merchant Profile Information |  |
 | :--- | :--- | :--- |
 | Last Name \*\* |  |  |
 | Email \*\* |  |  |
 | Phone Number |  |  |
 | Company Name \*\* |  |  |
 | Company Address |  |  |
-| Company Description  |  |  |
+| Company Description |  |  |
+| Company Logo  |  |  |
+| Merchant Profile Image  |  |  |
 |  |  |  |
-| Bank Name \*\* | Payment Information  |  |
+| Bank Name \*\* | Payment Information |  |
 | Bank Holder Name \*\* |  |  |
 | Bank Account Number\*\* |  |  |
 | Account Transaction \*\* |  |  |
