@@ -17,7 +17,7 @@
   * [Dashboard ](admin-panel-hui-yuan-kan-ban/dashboard.md)
 * [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
   * [Dashboard](merchant-panel-mai-jia-kan-ban/dashboard.md)
-  * Profile Setting
+  * [Profile Setting](merchant-panel-mai-jia-kan-ban/profile-setting.md)
   * Merchant Support 
   * Product Management 
   * Order Management 
