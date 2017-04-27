@@ -2,18 +2,20 @@
 
 ---
 
-Merchat profile
-
-| First Name \*\* |  |  |
+| First Name \*\* | Merchant Profile Information  |  |
 | :--- | :--- | :--- |
-| First Name \*\* |  |  |
+| Last Name \*\* |  |  |
 | Email \*\* |  |  |
-| Company Name  |  |  |
+| Phone Number |  |  |
+| Company Name \*\* |  |  |
 | Company Address |  |  |
-| Company Profile  |  |  |
-| Bank Name  |  |  |
-| Bank Holder Name  |  |  |
-| Bank Account Number  |  |  |
+| Company Description  |  |  |
+|  |  |  |
+| Bank Name \*\* | Payment Information  |  |
+| Bank Holder Name \*\* |  |  |
+| Bank Account Number\*\* |  |  |
+| Account Transaction \*\* |  |  |
+| Commission \*\* |  |  |
 
-\*\*not editable once approved as merchant
+\*\*not editable once approved as merchant \(Display only\)
 
