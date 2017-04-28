@@ -17,6 +17,7 @@ Pre- Condition \(Add Product\)
    | Filter \(Add, Delete, Edit\) | Filter Name, Status | Filter Group, Action, Status | Forth |
    | Options \(Add, Delete, Edit\) | Option Group, Status | Option Group, Action,           Status | Fifth |
    | Product \(Add, Delete, Edit\) | Product Name, Model,        Brand, Status | Product ID, Product Name,  Product Image, Quantity, Price, Action, Status | Last |
+   | Product Review \(View\) | Date, Status  | Product name, category, status, action  |  |
 
 ---
 
@@ -34,7 +35,7 @@ Pre- Condition \(Add Product\)
 | Weight |  |
 | Minimum Purchase Quantity |  |
 | Status \(View Only\) |  |
-| Image  |  |
+| Image |  |
 |  |  |
 |  |  |
 | **Links Data ** |  |
@@ -47,10 +48,10 @@ Pre- Condition \(Add Product\)
 
 ### Add Brands
 
-| Fields  |  |
+| Fields |  |
 | :--- | :--- |
-| Brand Name  |  |
-| Image  |  |
+| Brand Name |  |
+| Image |  |
 |  |  |
 
 ### **Add Categories **
@@ -73,7 +74,7 @@ Pre- Condition \(Add Product\)
 
 | **FIelds** |  |
 | :--- | :--- |
-| Option Group Name  |  |
+| Option Group Name |  |
 | Option Value Name |  |
 | Type | Select, Radio, Checkbox, Text, Image |
 | Image |  |
