@@ -2,14 +2,14 @@
 
 ---
 
-| **Field ** | **Tab ** | **Edit page**  |
+| **Field ** | **Tab ** | **Edit page** |
 | :--- | :--- | :--- |
 | First Name \*\* | **Merchant Profile Information ** |  |
 | Last Name \*\* |  |  |
 | Email \*\* |  |  |
 | Phone Number |  |  |
 | Shop Name \*\* |  |  |
-| Company Address               \(Edit Page\) |  | Address, City, Region, Country, Zip,      Google Map  |
+| Company Address               \(Edit Page\) |  | Address, City, Region, Country, Zip,      Google Map |
 | Shop Description |  |  |
 | Shop Logo |  |  |
 | Merchant Profile Picture |  |  |
@@ -18,15 +18,14 @@
 | Bank Holder Name \*\* |  |  |
 | Bank Account Number\*\* |  |  |
 | Account Transaction \*\* |  |  |
-| Commission \*\* |  |  |
+|  |  |  |
+| ID | **Commision \*\* \(View\) ** |  |
+| Category  |  |  |
+| Value Percentage |  |  |
 
 \*\*not editable once approved as merchant \(Display only\)
 
-
-
-### **Shop Setting \(Edit Page\)**
-
-
+### 
 
 
 
