@@ -4,13 +4,18 @@
 
 Pre- Condition \(Add Product\)
 
+1. Add Brand Name to system.
+2. Add Categories to system. 
+3. Add new Product to system. 
+4. Add Filter group for each categories.  Example category for: Food supplement. \(Vitamin A, Vitamin B, Vitamin C\)
+5. 
 | **Fields** | **Filter** | **Grid View** | **Condition ** |
 | :--- | :--- | :--- | :--- |
-| Brands                                 \(Add, Delete, Edit\) | Brand Name, Status | Brand Name, Action, Status | First  |
-| Categories                          \(Add, Delete, Edit\) | Auto fill in default category, Status | Category Name, Action,       Status | Second  |
-| Product                                 \(Add, Delete, Edit\) | Product Name, Model,         Brand, Status | Product ID, Product Name, Product Image, Quantity,    Price, Action, Status | Third  |
-| Filter \(Add, Delete, Edit\) | Filter Name, Status | Filter Group, Action, Status |  |
-| Options \(Add, Delete, Edit\) | Option Group, Status | Option Group, Action,           Status |  |
+| Brands                                 \(Add, Delete, Edit\) | Brand Name, Status | Brand Name, Action, Status | First |
+| Categories                          \(Add, Delete, Edit\) | Auto fill in default category, Status | Category Name, Action,       Status | Second |
+| Product                                 \(Add, Delete, Edit\) | Product Name, Model,         Brand, Status | Product ID, Product Name, Product Image, Quantity,    Price, Action, Status | Third |
+| Filter \(Add, Delete, Edit\) | Filter Name, Status | Filter Group, Action, Status | Forth  |
+| Options \(Add, Delete, Edit\) | Option Group, Status | Option Group, Action,           Status | Fifth  |
 
 ---
 
