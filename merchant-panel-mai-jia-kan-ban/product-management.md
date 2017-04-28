@@ -5,10 +5,10 @@
 | **Fields** | **Filter** | **Grid View** |
 | :--- | :--- | :--- |
 | Product \(Add, Delete, Edit\) | Product Name, Model, Brand, Status | Product ID, Product Name, Product Image, Quantity, Price, Status |
-| Categories \(Add, Delete, Edit\) |  | Category Name, Action, Status  |
-| Filter |  | Filter Group, Action, Status |
-| Brands |  |  |
-| Options |  |  |
+| Categories \(Add, Delete, Edit\) | Auto fill in default category | Category Name, Action, Status |
+| Filter  | Filter Name | Filter Group, Action, Status |
+| Brands | Brand Name | Brand Name, Action, Status  |
+| Options | Option Group  | Option Group, Action, Status  |
 |  |  |  |
 
 ---
@@ -30,12 +30,12 @@
 
 ### **Add Categories **
 
-| Category Name  | Submit approve |
+| **Fields ** | **Submit approval** |
 | :--- | :--- |
-| Category Name  |  |
-| parents  |  |
+| Category Name |  |
+| parents |  |
 | Filters |  |
-| Image  |  |
+| Image |  |
 
 
 
