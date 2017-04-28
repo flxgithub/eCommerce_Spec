@@ -10,7 +10,7 @@ Pre- Condition \(Add Product\)
 4. Add **Options** group for each product. Example A product: T-shirt \( size: X, M, L, XL\)
 5. Add new **Product** to system.
 
-6. | **Fields** | **Filter** | **Grid View** | **Condition ** |
+6. | **Page** | **Filter on top ** | **Grid View** | **Condition ** |
    | :--- | :--- | :--- | :--- |
    | Brands                                 \(Add, Delete, Edit\) | Brand Name, Status | Brand Name, Action,          Status | First |
    | Categories                          \(Add, Delete, Edit\) | Auto fill in default               category, Status | Category Name, Action,       Status | Second |
@@ -34,6 +34,8 @@ Pre- Condition \(Add Product\)
 | Weight |  |
 | Minimum Purchase Quantity |  |
 | Status \(View Only\) |  |
+| Image  |  |
+|  |  |
 |  |  |
 | **Links Data ** |  |
 | Category | Auto fill in complete. Must approve by admin |
@@ -43,7 +45,13 @@ Pre- Condition \(Add Product\)
 
 ##### \* cannot be empty
 
-### 
+### Add Brands
+
+| Fields  |  |
+| :--- | :--- |
+| Brand Name  |  |
+| Image  |  |
+|  |  |
 
 ### **Add Categories **
 
@@ -58,16 +66,17 @@ Pre- Condition \(Add Product\)
 
 | **Fields** |  |
 | :--- | :--- |
-| Filter Group Name  |  |
+| Filter Group Name |  |
 | Filter Name |  |
 
 ### **Add Options**
 
-| Option Group Name  |  |
+| **FIelds** |  |
 | :--- | :--- |
-| Option Value Name  |  |
-| Type | Select, Radio, Checkbox, Text, Image  |
-| Image  |  |
+| Option Group Name  |  |
+| Option Value Name |  |
+| Type | Select, Radio, Checkbox, Text, Image |
+| Image |  |
 
 
 
