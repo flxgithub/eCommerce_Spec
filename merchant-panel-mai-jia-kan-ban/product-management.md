@@ -16,13 +16,13 @@ Pre- Condition \(Add Product\)
    | Categories                          \(Add, Delete, Edit\) | Auto fill in default               category, Status | Category Name, Action,       Status | Second |
    | Filter \(Add, Delete, Edit\) | Filter Name, Status | Filter Group, Action, Status | Forth |
    | Options \(Add, Delete, Edit\) | Option Group, Status | Option Group, Action,           Status | Fifth |
-   | Product \(Add, Delete, Edit\) | Product Name, Model, Brand, Status | Product ID, Product Name,  Product Image, Quantity, Price, Action, Status | Last |
+   | Product \(Add, Delete, Edit\) | Product Name, Model,        Brand, Status | Product ID, Product Name,  Product Image, Quantity, Price, Action, Status | Last |
 
 ---
 
 ### **Add Product **
 
-| **Fields** |  |
+| **Fields** | **Condition** |
 | :--- | :--- |
 | Product Name\* |  |
 | Product Description |  |
@@ -36,9 +36,10 @@ Pre- Condition \(Add Product\)
 | Status \(View Only\) |  |
 |  |  |
 | **Links Data ** |  |
-| Category | Auto fill in complete. Condition: Must be approve by admin |
-| Brands | Auto fill in complete. Condition: Must be approve by admin |
-| Options | Auto fill in complete. Condition: Must be approve by admin |
+| Category | Auto fill in complete. Must approve by admin |
+| Brands | Auto fill in complete. Must approve by admin |
+| Options | Auto fill in complete. Must approve by admin |
+| Realted Product | Auto fill in complete. Must approve by admin |
 
 ##### \* cannot be empty
 
@@ -46,7 +47,7 @@ Pre- Condition \(Add Product\)
 
 ### **Add Categories **
 
-| **Fields ** | **Submit approval** |
+| **Fields ** |  |
 | :--- | :--- |
 | Category Name |  |
 | parents |  |
