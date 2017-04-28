@@ -4,19 +4,19 @@
 
 Pre- Condition \(Add Product\)
 
-1. Add **Brand** Name to system.
+1. Add **Brand** Name to system. 
 2. Add **Categories** to system. 
 3. Add **Filter **group for each categories.  Example category for: Food supplement. \(Vitamin A, Vitamin B, Vitamin C\)
 4. Add **Options** group for each product. Example A product: T-shirt \( size: X, M, L, XL\)
 5. Add new **Product** to system.
 
-1. | **Fields** | **Filter** | **Grid View** | **Condition ** |
+6. | **Fields** | **Filter** | **Grid View** | **Condition ** |
    | :--- | :--- | :--- | :--- |
    | Brands                                 \(Add, Delete, Edit\) | Brand Name, Status | Brand Name, Action,          Status | First |
    | Categories                          \(Add, Delete, Edit\) | Auto fill in default               category, Status | Category Name, Action,       Status | Second |
    | Filter \(Add, Delete, Edit\) | Filter Name, Status | Filter Group, Action, Status | Forth |
    | Options \(Add, Delete, Edit\) | Option Group, Status | Option Group, Action,           Status | Fifth |
-   | Product \(Add, Delete, Edit\) | Product Name, Model, Brand, Status | Product ID, Product Name,  Product Image, Quantity, Price, Action, Status  | Last  |
+   | Product \(Add, Delete, Edit\) | Product Name, Model, Brand, Status | Product ID, Product Name,  Product Image, Quantity, Price, Action, Status | Last |
 
 ---
 
@@ -27,7 +27,7 @@ Pre- Condition \(Add Product\)
 | Product Name\* |  |
 | Product Description |  |
 | Model\* |  |
-| Category | If new category, submit for admin approval |
+| Category | If new category, submit for admin to get approve |
 | Price |  |
 | Quantity |  |
 | Dimension \(L x W x H\) |  |
