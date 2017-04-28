@@ -18,7 +18,7 @@
 * [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
   * [Dashboard](merchant-panel-mai-jia-kan-ban/dashboard.md)
   * [Profile Setting](merchant-panel-mai-jia-kan-ban/profile-setting.md)
-  * Merchant Support 
+  * [Merchant Support ](merchant-panel-mai-jia-kan-ban/merchant-support.md)
   * Product Management 
   * Order Management 
   * Finance Report Management
