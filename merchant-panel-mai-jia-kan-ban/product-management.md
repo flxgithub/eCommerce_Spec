@@ -50,9 +50,24 @@ Pre- Condition \(Add Product\)
 | **Fields ** |  |
 | :--- | :--- |
 | Category Name |  |
-| parents |  |
+| Parents |  |
 | Filters |  |
 | Image |  |
+
+### **Add Filter**
+
+| **Fields** |  |
+| :--- | :--- |
+| Filter Group Name  |  |
+| Filter Name |  |
+
+### **Add Options**
+
+| Option Group Name  |  |
+| :--- | :--- |
+| Option Value Name  |  |
+| Type | Select, Radio, Checkbox, Text, Image  |
+| Image  |  |
 
 
 
