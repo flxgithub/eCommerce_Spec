@@ -20,6 +20,7 @@
   * [Profile Setting](merchant-panel-mai-jia-kan-ban/profile-setting.md)
   * [Merchant Support ](merchant-panel-mai-jia-kan-ban/merchant-support.md)
   * [Product Management ](merchant-panel-mai-jia-kan-ban/product-management.md)
+    * [ReferenceProductPage](merchant-panel-mai-jia-kan-ban/product-management/productpage.md)
   * [Order Management ](merchant-panel-mai-jia-kan-ban/order-management.md)
   * Finance Report Management
   * Advertisement Management Package
