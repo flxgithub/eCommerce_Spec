@@ -2,21 +2,22 @@
 
 ---
 
-| **Filter Group ** |  |
+| **Filter Group ** | **Selection** |
 | :--- | :--- |
-| Order Status | Checkout, Processing, Shipped, Cancelled, Completed  |
+| Order Status | Checkout, Processing, Shipped, Cancelled, Completed |
 | Order Date |  |
 
-
-
-| **Order Information ** |  |
+| **Order Information ** | **Action** |
 | :--- | :--- |
-| Product Name  |  |
-| Buyer  |  |
+| Product Name |  |
+| Buyer | View |
 | Payment Amount |  |
-| Country  |  |
-| Status  |  |
+| Country |  |
+| Status |  |
 | Address |  |
+| Delivery Status | Selection \(Shipped, Cancelled\) |
+| Tracking Number | Input Text  |
+| Delivery Company  |  |
 
 
 
