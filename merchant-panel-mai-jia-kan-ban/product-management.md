@@ -17,7 +17,7 @@ Pre- Condition \(Add Product\)
    | Filter \(Add, Delete, Edit\) | Filter Name, Status | Filter Group, Action, Status | Forth |
    | Options \(Add, Delete, Edit\) | Option Group, Status | Option Group, Action,           Status | Fifth |
    | Product \(Add, Delete, Edit\) | Product Name, Model,        Brand, Status | Product ID, Product Name,  Product Image, Quantity, Price, Action, Status | Last |
-   | Product Review \(View\) | Date, Status  | Product name, category, status, action  |  |
+   | Product Review \(View\) | Date, Status | Product name, category, status, action |  |
 
 ---
 
