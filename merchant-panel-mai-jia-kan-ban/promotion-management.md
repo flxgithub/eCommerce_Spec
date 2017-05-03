@@ -2,14 +2,20 @@
 
 ---
 
-| **Create Promotion Discount**  |  |
+| **Create Promotion Discount** |  |
 | :--- | :--- |
 | **Gift Voucher ** | **Action ** |
 | Code |  |
-| Name  |  |
-| From Date  |  |
-| From Email  |  |
-|  |  |
+| From Name |  |
+| From Email |  |
+| To Email  |  |
+| Theme  | Select - Birthday, Anniversary, Festival Celebration  |
+| Amount  |  |
+| Status  |  |
+
+| **Create Voucher Theme** |  |
+| :--- | :--- |
+| Theme name | Text |
 
 
 
