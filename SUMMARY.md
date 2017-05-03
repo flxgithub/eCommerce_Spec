@@ -25,6 +25,6 @@
     * [ReferenceOrderPage](merchant-panel-mai-jia-kan-ban/order-management/referenceorderpage.md)
   * [Finance Report Management](merchant-panel-mai-jia-kan-ban/finance-report-management.md)
     * [ReferenceFinanceWithdrawalPage](merchant-panel-mai-jia-kan-ban/finance-report-management/referencefinancewithdrawalpage.md)
-  * Advertisement Management Package
-  * Promotion Management 
+  * [Advertisement Management Package](merchant-panel-mai-jia-kan-ban/advertisement-management-package.md)
+  * [Promotion Management ](merchant-panel-mai-jia-kan-ban/promotion-management.md)
 
