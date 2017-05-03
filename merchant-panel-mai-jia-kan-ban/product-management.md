@@ -2,14 +2,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
 Pre- Condition \(Add Product\)
 
 1. Add **Brand** Name to system. 
@@ -36,6 +28,7 @@ Pre- Condition \(Add Product\)
 | Product Name\* |  |
 | Product Description |  |
 | Model\* |  |
+| SKU |  |
 | Category | If new category, submit for admin to get approve |
 | Price |  |
 | Quantity |  |
@@ -44,7 +37,7 @@ Pre- Condition \(Add Product\)
 | Minimum Purchase Quantity |  |
 | Status \(View Only\) |  |
 | Image |  |
-|  |  |
+| video  |  |
 |  |  |
 | **Links Data ** |  |
 | Category | Auto fill in complete. Must approve by admin |
