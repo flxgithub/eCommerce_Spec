@@ -6,6 +6,7 @@
 | :--- | :--- |
 | Order Status | Checkout, Processing, Shipped, Cancelled, Completed |
 | Order Date |  |
+| Export  | CSV/ Excel XML |
 
 | **Order Information ** | **Action** |
 | :--- | :--- |
@@ -16,8 +17,8 @@
 | Status |  |
 | Address |  |
 | Delivery Status | Selection \(Shipped, Cancelled\) |
-| Tracking Number | Input Text  |
-| Delivery Company  |  |
+| Tracking Number | Input Text |
+| Delivery Company |  |
 
 
 

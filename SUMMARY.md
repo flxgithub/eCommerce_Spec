@@ -22,8 +22,9 @@
   * [Product Management ](merchant-panel-mai-jia-kan-ban/product-management.md)
     * [ReferenceProductPage](merchant-panel-mai-jia-kan-ban/product-management/productpage.md)
   * [Order Management ](merchant-panel-mai-jia-kan-ban/order-management.md)
-    * ReferenceOrderPage
+    * [ReferenceOrderPage](merchant-panel-mai-jia-kan-ban/order-management/referenceorderpage.md)
   * [Finance Report Management](merchant-panel-mai-jia-kan-ban/finance-report-management.md)
+    * [ReferenceFinanceWithdrawalPage](merchant-panel-mai-jia-kan-ban/finance-report-management/referencefinancewithdrawalpage.md)
   * Advertisement Management Package
   * Promotion Management 
 
