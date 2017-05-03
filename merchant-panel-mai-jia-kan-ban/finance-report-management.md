@@ -10,6 +10,7 @@
 |  | Date added |
 |  | Payment Method |
 |  | Transaction Type |
+|  | Transaction Status  |
 
 
 
