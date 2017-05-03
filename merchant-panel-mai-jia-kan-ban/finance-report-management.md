@@ -6,9 +6,10 @@
 | :--- | :--- |
 | Transaction ID | Transaction ID |
 | Transaction Amount | Amount |
-| Date | Details  |
-|  | Date added  |
-|  |  |
+| Date | Details |
+|  | Date added |
+|  | Payment Method |
+|  | Transaction Type |
 
 
 
