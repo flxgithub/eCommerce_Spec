@@ -4,7 +4,7 @@
 
 ### **Add Product**
 
-![](/assets/product_for_bag_page1.png)![](/assets/product_for_bag_page2.png)![](/assets/product_for_bag_page3.png)![](/assets/product_for_bag_page4.png)![](/assets/product_for_bag_page5.png)![](/assets/product_for_bag_page6_related_product.png)![](/assets/product_for_bag_page7_up_sells.png)![](/assets/OC01.png)
+![](/assets/product_for_bag_page1.png)![](/assets/product_for_bag_page2.png)![](/assets/product_for_bag_page3.png)![](/assets/product_for_bag_page4.png)![](/assets/product_for_bag_page5.png)![](/assets/product_for_bag_page6_related_product.png)![](/assets/product_for_bag_page7_up_sells.png)![](/assets/product_for_bag_page8_cross_sells.png)![](/assets/OC01.png)
 
 ![](/assets/OC01.png)
 
