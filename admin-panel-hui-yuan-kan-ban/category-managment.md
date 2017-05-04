@@ -24,7 +24,8 @@ Step 5: Product
 
 | **Gridview** |  |
 | :--- | :--- |
-|  |  |
+| Brand Name |  |
+| Brand Image  |  |
 
 **Category List**
 
@@ -36,14 +37,14 @@ Step 5: Product
 
 | **Gridview** |  |
 | :--- | :--- |
-|  |  |
+| Category Group  |  |
 
 **Filter List **
 
 | Filter |  |
 | :--- | :--- |
-| Filter Group  |  |
-| Approved  |  |
+| Filter Group |  |
+| Approved |  |
 | Status |  |
 
 | **GridView** | **Action ** |
