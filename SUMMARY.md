@@ -15,6 +15,15 @@
 * [Advance](advance.md)
 * [Admin Panel 管理员看板](admin-panel-hui-yuan-kan-ban.md)
   * [Admin Dashboard ](admin-panel-hui-yuan-kan-ban/admin-dashboard.md)
+  * [Merchant Management](admin-panel-hui-yuan-kan-ban/merchant-management.md)
+  * Category Managment
+  * Product Management
+  * Order Management
+  * Report Management 
+  * Shipping Management
+  * Promotion Management 
+  * Comission Management
+  * Information Management 
 * [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
   * [Marchant Dashboard](merchant-panel-mai-jia-kan-ban/dashboard.md)
   * [Profile Setting](merchant-panel-mai-jia-kan-ban/profile-setting.md)
