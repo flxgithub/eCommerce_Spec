@@ -2,7 +2,17 @@
 
 ---
 
-![](/assets/MerchantManagement.png)
+![](/assets/MerchantManagement.png)![](/assets/CustomerManagement2.png)Feature on top
+
+\*Filters
+
+\*Store View
+
+\*Language -  EN/CN
+
+\*Column Display
+
+\*Export - PDF, CSV, Excel, DOCS 
 
 | **Filter** | **Selection ** |
 | :--- | :--- |
@@ -19,18 +29,29 @@
 | Name |  |
 | Email |  |
 | Group |  |
-| Status  |  |
-| Approved  |  |
-| Date Added  |  |
-| Merchant Type  |  |
+| Status |  |
+| Approved |  |
+| Date Added |  |
+| Merchant Type |  |
 | Commission |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| **Advance ** |  |
+| Country/ City |  |
+| State |  |
+| Address |  |
+| Date Joined |  |
 
 ### **Custom Grid View **
 
 ![](/assets/Custom.png)
+
+![](/assets/Custom2.png)
+
+### **Add Group **
+
+| Customer Group Name |  |
+| :--- | :--- |
+| Description  |  |
+|  |  |
+
+
 
