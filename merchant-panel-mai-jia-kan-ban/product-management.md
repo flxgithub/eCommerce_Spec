@@ -8,11 +8,11 @@ Pre- Condition \(Add Product\)
 
 Step 1 : Insert Brand
 
-Step 2 : Insert Categories 
+Step 2 : Insert Categories
 
 Step 3 : Insert Filter
 
-Step 4: Insert Options 
+Step 4: Insert Options
 
 Step 5: Insert Product
 
