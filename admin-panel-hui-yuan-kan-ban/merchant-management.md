@@ -12,7 +12,7 @@
 
 \*Column Display
 
-\*Export - PDF, CSV, Excel, DOCS 
+\*Export - PDF, CSV, Excel, DOCS
 
 | **Filter** | **Selection ** |
 | :--- | :--- |
@@ -50,7 +50,7 @@
 
 | Customer Group Name |  |
 | :--- | :--- |
-| Description  |  |
+| Description |  |
 |  |  |
 
 

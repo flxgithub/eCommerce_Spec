@@ -2,6 +2,18 @@
 
 ---
 
+**Features on top**
+
+\*Filters
+
+\*Store View
+
+\*Language -  EN/CN
+
+\*Column Display
+
+\*Export - PDF, CSV, Excel, DOCS
+
 ### Lists to approve by admin ** **
 
 Step 1 : Brand
@@ -14,6 +26,8 @@ Step 4: Options
 
 Step 5: Product
 
+---
+
 **Brand list**
 
 | **Filter** |  |
@@ -25,7 +39,9 @@ Step 5: Product
 | **Gridview** |  |
 | :--- | :--- |
 | Brand Name |  |
-| Brand Image  |  |
+| Brand Image |  |
+
+---
 
 **Category List**
 
@@ -37,7 +53,9 @@ Step 5: Product
 
 | **Gridview** |  |
 | :--- | :--- |
-| Category Group  |  |
+| Category Group |  |
+
+---
 
 **Filter List **
 
