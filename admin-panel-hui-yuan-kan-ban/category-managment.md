@@ -14,8 +14,6 @@ Step 4: Options
 
 Step 5: Product
 
-
-
 **Brand list**
 
 | **Filter** |  |
@@ -28,27 +26,29 @@ Step 5: Product
 | :--- | :--- |
 |  |  |
 
-**Category List** 
+**Category List**
 
-| **Filter**  |  |
+| **Filter** |  |
 | :--- | :--- |
-| Category Name  |  |
-| Approved  |  |
-| Status  |  |
+| Category Name |  |
+| Approved |  |
+| Status |  |
 
 | **Gridview** |  |
 | :--- | :--- |
 |  |  |
 
-**FIlter List **
+**Filter List **
 
-| **Filter** |  |
+| Filter |  |
 | :--- | :--- |
-|  |  |
+| Filter Group  |  |
+| Approved  |  |
+| Status |  |
 
 | **GridView** | **Action ** |
 | :--- | :--- |
-| Filter Group  |  |
+| Filter Group |  |
 | button | Add \(Filter Group Name\) |
 
 
