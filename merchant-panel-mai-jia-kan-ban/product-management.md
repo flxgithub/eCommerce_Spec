@@ -6,6 +6,8 @@ Pre- Condition \(Add Product\)
 
 [Easy Wizard is a jQuery plugin](https://www.pinterest.com/pin/395331673517761724/)
 
+[Wizard Design Pattern](https://uxplanet.org/wizard-design-pattern-8c86e14f2a38)
+
 Step 1 : Insert Brand
 
 Step 2 : Insert Categories
@@ -15,6 +17,8 @@ Step 3 : Insert Filter
 Step 4: Insert Options
 
 Step 5: Insert Product
+
+![](/assets/WizardDesignPattern.png)
 
 ![](/assets/WizardControl.png)
 
