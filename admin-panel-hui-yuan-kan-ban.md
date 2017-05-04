@@ -6,7 +6,7 @@
 
 ---
 
-1. Dashboard 
+1. Admin Dashboard 
 2. Merchant Management
 3. Category Management
 4. Product Management 
@@ -16,8 +16,6 @@
 8. Promotion Management 
 9. Comission Management
 10. Information Mangement  
-
-
 
 ---
 

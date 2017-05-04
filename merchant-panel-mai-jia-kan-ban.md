@@ -22,7 +22,7 @@ file:///C:/Users/User/Downloads/Intro%20to%20SC%20F2F-Ver%202.0-June.pdf
 
 ## **Merchant Functionality**![](/assets/Merchant Board Management.png)
 
-1. Dashboard 
+1. Merchant Dashboard 
 2. Profile Setting 
 3. Merchant Support 
 4. Product Management 
@@ -83,9 +83,7 @@ View More &gt;&gt;&gt;   Link to order list
 
 ---
 
-
-
-#### Fast Track 
+#### Fast Track
 
 ---
 
@@ -95,7 +93,7 @@ Last Order - Alfa Chair
 
 Best Selling Product - Beta Tea Table
 
-Hot Product Search - Ring Table 
+Hot Product Search - Ring Table
 
 ---
 
