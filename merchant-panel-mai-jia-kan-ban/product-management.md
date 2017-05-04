@@ -4,6 +4,20 @@
 
 Pre- Condition \(Add Product\)
 
+[Easy Wizard is a jQuery plugin](https://www.pinterest.com/pin/395331673517761724/)
+
+Step 1 : Insert Brand
+
+Step 2 : Insert Categories 
+
+Step 3 : Insert Filter
+
+Step 4: Insert Options 
+
+Step 5: Insert Product
+
+![](/assets/WizardControl.png)
+
 1. Add **Brand** Name to system. 
 2. Add **Categories** to system. 
 3. Add **Filter **group for each categories.  Example category for: Food supplement. \(Vitamin A, Vitamin B, Vitamin C\)
@@ -37,7 +51,7 @@ Pre- Condition \(Add Product\)
 | Minimum Purchase Quantity |  |
 | Status \(View Only\) |  |
 | Image |  |
-| video  |  |
+| video |  |
 |  |  |
 | **Links Data ** |  |
 | Category | Auto fill in complete. Must approve by admin |

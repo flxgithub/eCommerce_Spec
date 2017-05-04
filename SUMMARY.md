@@ -16,7 +16,7 @@
 * [Admin Panel 管理员看板](admin-panel-hui-yuan-kan-ban.md)
   * [Admin Dashboard ](admin-panel-hui-yuan-kan-ban/admin-dashboard.md)
   * [Merchant Management](admin-panel-hui-yuan-kan-ban/merchant-management.md)
-  * Category Managment
+  * [Category Managment](admin-panel-hui-yuan-kan-ban/category-managment.md)
   * Product Management
   * Order Management
   * Report Management 
