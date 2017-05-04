@@ -2,6 +2,8 @@
 
 ---
 
+##### EN CN                      Store View               Custom 
+
 #### Merchant Board                              Order Borad                     Sales Board                             Customer Board
 
 Total Merchant  - \(52\)                                   Recent Order - \(67\)                  Sales - 13K                                          Total Customer - 500
@@ -18,5 +20,7 @@ Rejected Merchant - 2                                   Pending - 12
 
 ---
 
-View more &gt;
+![](/assets/AdminDashboardOrder.png)
+
+![](/assets/AdminLatestOrder.png)
 
