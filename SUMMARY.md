@@ -20,10 +20,10 @@
   * [Product Management](admin-panel-hui-yuan-kan-ban/product-management.md)
   * [Order Management](admin-panel-hui-yuan-kan-ban/order-management.md)
   * [Report Management ](admin-panel-hui-yuan-kan-ban/report-management.md)
-  * Shipping Management
-  * Promotion Management 
-  * Comission Management
-  * Information Management 
+  * [Shipping Management](admin-panel-hui-yuan-kan-ban/shipping-management.md)
+  * [Promotion Management ](admin-panel-hui-yuan-kan-ban/promotion-management.md)
+  * [Comission Management](admin-panel-hui-yuan-kan-ban/comission-management.md)
+  * [Information Management ](admin-panel-hui-yuan-kan-ban/information-management.md)
 * [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
   * [Marchant Dashboard](merchant-panel-mai-jia-kan-ban/dashboard.md)
   * [Profile Setting](merchant-panel-mai-jia-kan-ban/profile-setting.md)
