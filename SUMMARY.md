@@ -19,7 +19,7 @@
   * [Category Management](admin-panel-hui-yuan-kan-ban/category-managment.md)
   * [Product Management](admin-panel-hui-yuan-kan-ban/product-management.md)
   * [Order Management](admin-panel-hui-yuan-kan-ban/order-management.md)
-  * Report Management 
+  * [Report Management ](admin-panel-hui-yuan-kan-ban/report-management.md)
   * Shipping Management
   * Promotion Management 
   * Comission Management
