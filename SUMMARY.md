@@ -18,7 +18,7 @@
   * [Merchant Management](admin-panel-hui-yuan-kan-ban/merchant-management.md)
   * [Category Management](admin-panel-hui-yuan-kan-ban/category-managment.md)
   * [Product Management](admin-panel-hui-yuan-kan-ban/product-management.md)
-  * Order Management
+  * [Order Management](admin-panel-hui-yuan-kan-ban/order-management.md)
   * Report Management 
   * Shipping Management
   * Promotion Management 
