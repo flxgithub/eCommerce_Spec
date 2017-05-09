@@ -16,7 +16,7 @@
 
 | **Filter** | **Selection ** |
 | :--- | :--- |
-| Customer Name |  |
+| Merchant Name |  |
 | Email |  |
 | Merchant Type | merchants, Requsted but not merchant |
 | Approved | yes, no |
