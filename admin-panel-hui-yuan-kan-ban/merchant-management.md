@@ -22,6 +22,7 @@
 | Approved | yes, no |
 | Status | Active, Non-Active |
 | Group | Platinum, Gold, Silver, Special members |
+| Join date  |  |
 
 | **GridView ** |  |
 | :--- | :--- |
