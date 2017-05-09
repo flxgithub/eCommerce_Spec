@@ -6,7 +6,7 @@
 
 \*Filters
 
-\*Store View
+\*Store View \(currency\)
 
 \*Language -  EN/CN
 

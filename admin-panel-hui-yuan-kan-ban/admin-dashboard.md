@@ -2,7 +2,7 @@
 
 ---
 
-##### EN CN                      Store View               Custom 
+##### EN CN                      Store View               Custom
 
 #### Merchant Board                              Order Borad                     Sales Board                             Customer Board
 
@@ -15,7 +15,7 @@ Pending Merchant - 10                                 Shipped - 40              
 Rejected Merchant - 2                                   Pending - 12
 
 ```
-                                       Cancelled - 2
+                                      Cancelled - 2
 ```
 
 ---
