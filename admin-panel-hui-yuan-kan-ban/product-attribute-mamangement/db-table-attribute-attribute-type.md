@@ -4,7 +4,7 @@
 
 | **Column** | **Data Type ** | **Comment ** |
 | :--- | :--- | :--- |
-| attribute\_id | BIGINT default  |  |
+| attribute\_id | BIGINT default |  |
 | create\_by | VARCHAR\(50\) |  |
 | create\_time | TIMESTAMP |  |
 | update\_by | VARCHAR\(50\) |  |
