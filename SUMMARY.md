@@ -26,7 +26,9 @@
   * [Promotion Management ](admin-panel-hui-yuan-kan-ban/promotion-management.md)
   * [Comission Management](admin-panel-hui-yuan-kan-ban/comission-management.md)
   * [Information Management ](admin-panel-hui-yuan-kan-ban/information-management.md)
-  * UI Design
+  * [Product Attribute Mamangement](admin-panel-hui-yuan-kan-ban/product-attribute-mamangement.md)
+    * [Product Attribute UI](admin-panel-hui-yuan-kan-ban/product-attribute-mamangement/product-attribute-ui.md)
+    * [DB Table - Attribute, Attribute Type ](admin-panel-hui-yuan-kan-ban/product-attribute-mamangement/db-table-attribute-attribute-type.md)
 * [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
   * [Marchant Dashboard](merchant-panel-mai-jia-kan-ban/dashboard.md)
   * [Profile Setting](merchant-panel-mai-jia-kan-ban/profile-setting.md)
