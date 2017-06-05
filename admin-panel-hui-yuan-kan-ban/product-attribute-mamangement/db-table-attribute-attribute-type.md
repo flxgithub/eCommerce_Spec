@@ -5,21 +5,21 @@
 | **Column** | **Data Type ** | **Comment ** |
 | :--- | :--- | :--- |
 | attribute\_id |  |  |
-| create\_by  |  |  |
-| create\_time  |  |  |
+| create\_by |  |  |
+| create\_time |  |  |
 | update\_by |  |  |
-| update\_time  |  |  |
+| update\_time |  |  |
 | rec\_state |  |  |
 | attribute\_type |  |  |
-| attribute  |  |  |
-| description  |  |  |
+| attribute |  |  |
+| description |  |  |
 | parent\_attribute |  |  |
 
 ### DB Table -** Attribute Type**
 
 ---
 
-|  |  |  |
+| **Column ** | **Data Type ** | **Comment ** |
 | :--- | :--- | :--- |
 |  |  |  |
 |  |  |  |
@@ -27,4 +27,6 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+
+
 
