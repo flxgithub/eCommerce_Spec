@@ -17,6 +17,8 @@
   * [Admin Dashboard ](admin-panel-hui-yuan-kan-ban/admin-dashboard.md)
   * [Merchant Management](admin-panel-hui-yuan-kan-ban/merchant-management.md)
   * [Category Management](admin-panel-hui-yuan-kan-ban/category-managment.md)
+    * [Category UI ](admin-panel-hui-yuan-kan-ban/category-managment/category-ui.md)
+    * [DB Table - Category ](admin-panel-hui-yuan-kan-ban/category-managment/table-category.md)
   * [Product Management](admin-panel-hui-yuan-kan-ban/product-management.md)
   * [Order Management](admin-panel-hui-yuan-kan-ban/order-management.md)
   * [Report Management ](admin-panel-hui-yuan-kan-ban/report-management.md)
@@ -24,6 +26,7 @@
   * [Promotion Management ](admin-panel-hui-yuan-kan-ban/promotion-management.md)
   * [Comission Management](admin-panel-hui-yuan-kan-ban/comission-management.md)
   * [Information Management ](admin-panel-hui-yuan-kan-ban/information-management.md)
+  * UI Design
 * [Merchant Panel 卖家看板](merchant-panel-mai-jia-kan-ban.md)
   * [Marchant Dashboard](merchant-panel-mai-jia-kan-ban/dashboard.md)
   * [Profile Setting](merchant-panel-mai-jia-kan-ban/profile-setting.md)
