@@ -4,16 +4,16 @@
 
 | **Column** | **Data Type ** | **Comment ** |
 | :--- | :--- | :--- |
-| attribute\_id |  |  |
-| create\_by |  |  |
-| create\_time |  |  |
-| update\_by |  |  |
-| update\_time |  |  |
+| attribute\_id | BIGINT default  |  |
+| create\_by | VARCHAR\(50\) |  |
+| create\_time | TIMESTAMP |  |
+| update\_by | VARCHAR\(50\) |  |
+| update\_time | TIMESTAMP |  |
 | rec\_state | INTEGER |  |
-| attribute\_type |  |  |
-| attribute |  |  |
-| description |  |  |
-| parent\_attribute |  |  |
+| attribute\_type | VARCHAR\(50\) |  |
+| attribute | VARCHAR\(50\) |  |
+| description | VARCHAR\(1000\) |  |
+| parent\_attribute | VARCHAR\(50\) |  |
 
 ### DB Table -** Attribute Type**
 
@@ -38,8 +38,8 @@
 | is\_user\_defined | BOOLEAN default false |  |
 | is\_visible | BOOLEAN default false |  |
 | is\_searchable | BOOLEAN default false |  |
-| is\_filterable | BOOLEAN default false  |  |
-| position \_order  | INTEGER default 0 |  |
+| is\_filterable | BOOLEAN default false |  |
+| position \_order | INTEGER default 0 |  |
 
 
 
