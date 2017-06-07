@@ -4,13 +4,15 @@
 
 ##### Button
 
-\*Add product attribute
+\*Back 
 
-\*Delete attribute
+\*Refresh
+
+\*Add Attribute
+
+\*Delete
 
 \*Export - PDF, CSV, Excel, Docs
-
-\*Approve product attribute
 
 ---
 
@@ -19,6 +21,13 @@
 **\(First Page\) Product attribute UI**
 
 * Search filter by attribute label 
-* 
+* Add product attribute
+
+* Delete attribute
+* Export - PDF, CSV, Excel, Docs
+* Approve product attribute
+
 ![](/assets/product_attribute.png)
+
+
 
