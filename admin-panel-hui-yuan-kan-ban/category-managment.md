@@ -2,73 +2,61 @@
 
 ---
 
-**Features on top**
+**Button **
 
-\*Filters
+\*Add Category
 
-\*Store View
+\*Back
 
-\*Language -  EN/CN
+\*Refesh
 
-\*Column Display
+\*Delete
 
 \*Export - PDF, CSV, Excel, DOCS
 
-### Lists to approve by admin ** **
+---
 
-Step 1 : Brand
+### **Category UI**
 
-Step 2 : Category
+**\(First Page\) UI of Category Listing + Tree List**
 
-Step 3 : Filter
+* Search category name and status
+* update status \(Approve\) 
+* Delete category 
+* Add new category ![](/assets/category.png)
 
-Step 4: Options
+\(**Second Page\) UI Category Form**
 
-Step 5: Product
+* Insert category info 
+* upload image 
+* update save form  
+
+![](/assets/categoryform.png)
 
 ---
 
-**Brand list**
+### DB Table Category
 
-| **Filter** |  |
-| :--- | :--- |
-| Brand ID |  |
-| Approved | Yes, No |
-| Status | Active, Non-Active |
-
-| **Gridview** |  |
-| :--- | :--- |
-| Brand Name |  |
-| Brand Image |  |
-
----
-
-**Category List**
-
-| **Filter** |  |
-| :--- | :--- |
-| Category Name |  |
-| Approved |  |
-| Status |  |
-
-| **Gridview** |  |
-| :--- | :--- |
-| Category Group |  |
-
----
-
-**Filter List **
-
-| Filter |  |
-| :--- | :--- |
-| Filter Group |  |
-| Approved |  |
-| Status |  |
-
-| **GridView** | **Action ** |
-| :--- | :--- |
-| Filter Group |  |
-| button | Add \(Filter Group Name\) |
+| **Column** | **Data Type** | **Comment** |
+| :--- | :--- | :--- |
+| category\_id | BIGINT | Category idetifier number |
+| create\_by | VARCHAR\(50\) | Category created by a person |
+| create\_time | TIMESTAMP | Time create category |
+| update\_by | VARCHAR\(50\) | A person update category |
+| update\_time | TIMESTAMP | Update time of category |
+| rec\_state | INTEGER | Count status to prevent concurrency conflict |
+| category | VARCHAR\(50\) | Product category |
+| description | VARCHAR\(1000\) | Description of category |
+| parent\_category | BIGINT | First layer of categoy |
+| state | VARCHAR\(50\) | Category state \(A-Active, S-Suspend\) |
+| url\_path | VARCHAR\(1000\) | Path of category |
+| image\_path | VARCHAR\(1000\) | Image path of category |
+| meta\_keywords | VARCHAR\(1000\) | Specific type of meta tag |
+| meta\_description | VARCHAR\(1000\) | Description of meta tag |
+| meta\_title | VARCHAR\(1000\) | Title of meta tag |
+| name | VARCHAR\(1000\) | Category name |
+| show\_in\_menu | BOOLEAN default false | Disply mode in menu |
+| sort\_order | INTEGER default 0 | Sorting out category |
 
 
 

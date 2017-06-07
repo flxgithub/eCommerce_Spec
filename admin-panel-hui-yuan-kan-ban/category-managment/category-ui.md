@@ -5,8 +5,6 @@
 * Delete category 
 * Add new category 
 
-** **![](/assets/category.png)
-
 ---
 
 \(**Second Page\) UI Category Form**
@@ -15,5 +13,5 @@
 * upload image 
 * update save form  
 
-![](/assets/categoryform.png)
+
 
