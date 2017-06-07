@@ -36,11 +36,11 @@
 **First Page**
 
 * Add product 
-* Filter search product name, merchant name, status, SKU ![](/assets/product.png)
+* Filter search product name, merchant name, status, SKU 
 
 ![](/assets/product.png)
 
-![](/assets/product.png)
+
 
 
 
