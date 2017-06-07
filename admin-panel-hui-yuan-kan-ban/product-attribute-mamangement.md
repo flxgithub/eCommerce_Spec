@@ -31,6 +31,9 @@
 
 ![](/assets/product_attribute.png)\(**Second Page\) **
 
+* Update save form 
+* Insert Attribute information 
+
 ### ![](/assets/productattributeform.png)
 
 ### 
