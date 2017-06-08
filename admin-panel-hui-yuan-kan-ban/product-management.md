@@ -48,7 +48,5 @@ Images and Video
 
 Search Engine Optimization
 
-
-
 ![](/assets/productform.png)
 
