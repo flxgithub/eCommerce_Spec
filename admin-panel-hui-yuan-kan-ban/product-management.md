@@ -38,7 +38,19 @@
 * Add product 
 * Filter search product name, merchant name, status, SKU 
 
-![](/assets/product.png)
+![](/assets/product.png)**Second page**
+
+Product Details 
+
+Advance Attributes Properties
+
+Images and Video 
+
+Search Engine Optimization 
+
+
+
+![](/assets/productform.png)
 
 
 
