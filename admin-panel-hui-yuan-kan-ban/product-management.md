@@ -40,19 +40,15 @@
 
 ![](/assets/product.png)**Second page**
 
-Product Details 
+Product Details
 
 Advance Attributes Properties
 
-Images and Video 
+Images and Video
 
-Search Engine Optimization 
+Search Engine Optimization
 
 
 
 ![](/assets/productform.png)
-
-
-
-
 
