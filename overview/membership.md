@@ -58,17 +58,21 @@ One order can have many purchase products. Click on order if which to proceed fo
 
 Condition\*
 
+
+
 -Received : Return Product button
 
 -Haven't receive : Return amount button
 
+![](/assets/Refund6.png)
+
 ![](/assets/Return4.png)
 
-![](/assets/Return3.png)
+
 
 Reason /原因\*
 
-Type : 
+Type of reason:
 
 ```
        -Incorrect product or size ordered 订购错误
@@ -79,9 +83,9 @@ Type :
        -others 其他
 ```
 
-###### 
+###### Other refund reason: User type own reason
 
-# 
+
 
 # 
 
