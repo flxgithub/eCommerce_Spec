@@ -58,27 +58,31 @@ One order can have many purchase products. Click on order if which to proceed fo
 
 ---
 
-#### Condition update in system 
+#### Condition update in system
 
 1\) Status\*
 
-     User must select on the status to fill in reason and apply refund/ return request
+```
+ User must select on the status to fill in reason and apply refund/ return request
 
-    -Received : Return Product button
+-Received : Return Product button
 
-    -Haven't receive : Return amount button
+-Haven't receive : Return amount button
+```
 
 2\) Request of :-
 
-    -Refund 
+```
+-Refund 
 
-    -Return Product 
+-Return Product 
+```
 
-3\) If condition 'Return Amount', Fill in amount 
+3\) If condition 'Return Amount', Fill in amount
 
-    -Return Reason 
-
-  
+```
+-Return Reason 
+```
 
 ![](/assets/Refund6.png)
 
@@ -98,8 +102,6 @@ Type of reason:
 ```
 
 ###### Other refund reason: User type own reason
-
-
 
 # 
 
