@@ -60,25 +60,24 @@ Condition\*
 
 -Received : Return Product button
 
--Haven't receive : Return amount button 
+-Haven't receive : Return amount button
 
+![](/assets/Return4.png)
 
+![](/assets/Return3.png)
 
-![](/assets/Return2.png)![](/assets/Return4.png)
+Reason /原因\*
 
-Reason /原因\* 
+Type : 
 
-Type : -Incorrect product or size ordered 订购错误
-
-           -Product did not match description on website or in catalog 虚假发货
-
-           -Merchant shipped wrong product or size 商家发错货
-
-           -Delivery problem 快递问题
-
-           -Empty Parcel 空包裹/少货/虚假发货
-
-           -
+```
+       -Incorrect product or size ordered 订购错误
+       -Product did not match description on website or in catalog 虚假发货
+       -Merchant shipped wrong product or size 商家发错货
+       -Delivery problem 快递问题
+       -Empty Parcel 空包裹/少货/虚假发货
+       -others 其他
+```
 
 ###### 
 
