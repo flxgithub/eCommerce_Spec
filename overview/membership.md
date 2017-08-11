@@ -19,8 +19,6 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/PofileNavigation.png)![](/assets/DesciptionNavigation.png)
 
-
-
 当用户点击自己头像，就会去个人“信息管理”的页面
 
 #### 1\) Click on your own profile
@@ -37,7 +35,7 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 当用户点击会员特权，会进入“会员特区”
 
-#### 2\) Membership 
+#### 2\) Membership
 
 ![](/assets/会员特区.png)
 
@@ -47,23 +45,40 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/Return.png)Click on return icon in membership page
 
-######  ![](/assets/Refund2.png)
+###### ![](/assets/Refund2.png)
 
-###### Lists of purchased product 
+###### Lists of purchased product \(Display of product only available within refund/ return policy days\)
 
 * Date of purchase per order 
 * Quantity purchase per order 
 * The first image of purchased product 
+* Status of the product \(Pending Delivering, Delivered, Refund, Return Product 代出库，已收货，已退款，已退货）
 
-One order can have many purchase products. Click into each order if which to proceed for return and refund.
+One order can have many purchase products. Click on order if which to proceed for return and refund.
+
+Condition\*
+
+-Received : Return Product button
+
+-Haven't receive : Return amount button 
 
 
 
- 
+![](/assets/Return2.png)![](/assets/Return4.png)
 
+Reason /原因\* 
 
+Type : -Incorrect product or size ordered 订购错误
 
- 
+           -Product did not match description on website or in catalog 虚假发货
+
+           -Merchant shipped wrong product or size 商家发错货
+
+           -Delivery problem 快递问题
+
+           -Empty Parcel 空包裹/少货/虚假发货
+
+           -
 
 ###### 
 
