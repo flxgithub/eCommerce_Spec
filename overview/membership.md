@@ -56,19 +56,33 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 One order can have many purchase products. Click on order if which to proceed for return and refund.
 
-Condition\*
+---
 
+#### Condition update in system 
 
+1\) Status\*
 
--Received : Return Product button
+     User must select on the status to fill in reason and apply refund/ return request
 
--Haven't receive : Return amount button
+    -Received : Return Product button
+
+    -Haven't receive : Return amount button
+
+2\) Request of :-
+
+    -Refund 
+
+    -Return Product 
+
+3\) If condition 'Return Amount', Fill in amount 
+
+    -Return Reason 
+
+  
 
 ![](/assets/Refund6.png)
 
 ![](/assets/Return4.png)
-
-
 
 Reason /原因\*
 
