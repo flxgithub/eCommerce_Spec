@@ -60,19 +60,19 @@ One order can have many purchase products. Click on order if which to proceed fo
 
 #### Condition update in system
 
-1\) Status\* 
+1\) Status\*
 
 ```
  User must select on the status to fill in reason and apply refund/ return request
 
 -Received 
 
--Haven't receive 
+-Haven't receive
 ```
 
 ###### Status \(Received Product\)
 
- 1\) Request of :-
+1\) Request of :-
 
 ```
 -Return Product button
@@ -86,13 +86,7 @@ One order can have many purchase products. Click on order if which to proceed fo
 
 4\) Image proof of Reason
 
-
-
 ###### Status \(Delivering product\)
-
-
-
-
 
 ![](/assets/Refund6.png)
 
