@@ -75,14 +75,14 @@ One order can have many purchase products. Click on order if which to proceed fo
 ```
 -Refund 
 
--Return Product 
+-Return Product
 ```
 
 3\) If condition 'Return Amount', Fill in amount
 
-```
--Return Reason 
-```
+4\) Return Reason
+
+5\) Image proof of Reason 
 
 ![](/assets/Refund6.png)
 
