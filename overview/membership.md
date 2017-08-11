@@ -11,9 +11,19 @@
 
 # User Interface 会员页面
 
+![](/assets/FooterIcon1.png)
+
+When user click on My Account / My Profile Icon on footer icon. Link to the page below:-
+
 ![](/assets/Membership.png)![](/assets/会员.png)
 
+![](/assets/PofileNavigation.png)![](/assets/DesciptionNavigation.png)
+
+
+
 当用户点击自己头像，就会去个人“信息管理”的页面
+
+#### 1\) Click on your own profile
 
 ![](/assets/Profile Management.png)![](/assets/账户管理.png)
 
@@ -27,9 +37,39 @@
 
 当用户点击会员特权，会进入“会员特区”
 
-![](/assets/会员特区.png)![](/assets/member's privilige.png)
+#### 2\) Membership 
+
+![](/assets/会员特区.png)
 
 ---
+
+#### 8\) Return & Refund Process
+
+![](/assets/Return.png)Click on return icon in membership page
+
+######  ![](/assets/Refund2.png)
+
+###### Lists of purchased product 
+
+* Date of purchase per order 
+* Quantity purchase per order 
+* The first image of purchased product 
+
+One order can have many purchase products. Click into each order if which to proceed for return and refund.
+
+
+
+ 
+
+
+
+ 
+
+###### 
+
+# 
+
+# 
 
 # Use Case Assumptions, Preconditions and Post-conditions
 

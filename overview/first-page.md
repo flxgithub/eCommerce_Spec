@@ -6,5 +6,7 @@
 
 此画面，是由广告布局，流动活动广告，一分为二商品排列，一分为四商品排列，折扣活动，秒杀活动，品质购，特色购，推荐购
 
+![](/assets/LandingPage1.png)
 
+![](/assets/LandingPage2.png)
 
