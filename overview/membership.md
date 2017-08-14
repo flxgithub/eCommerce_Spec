@@ -47,9 +47,19 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrder1.png)
 
-#### Important Order Status - All, Payment, Shipping, Review, Refund \(Filter\) 
+#### Important Order Status - All, Payment, Shipping, Review, Refund \(Filter\)
 
+Each Order details 
 
+Merchant Shop 
+
+Items from Merchant Shop 
+
+Total Quantity from Merchant Shop 
+
+Order Status: Successfull or Fail
+
+  
 
 #### 8\) Return & Refund Process
 
@@ -82,7 +92,17 @@ Shpping Address
 
 Receiver
 
-Delivery Time \(Morning Shift 10-11am , Afternoon Shift 12-4pm\)
+Delivery and Receive Time \(Morning Shift 10-11am , Afternoon Shift 12-4pm\)
+
+Product name 
+
+Product details, Type, Color
+
+Price
+
+Delivery fees
+
+Total Amount 
 
 ---
 
