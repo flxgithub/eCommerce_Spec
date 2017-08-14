@@ -51,9 +51,9 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 #### Order Status - All, Payment, Shipping, Review, Refund Details, Ranking\(Filter\)
 
-Each Order display 
+Each Order display
 
---------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 Merchant Shop Name
 
