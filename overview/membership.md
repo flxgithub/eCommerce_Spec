@@ -41,17 +41,27 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ---
 
+#### 4\) Payment \(代付款）
+
+![](/assets/PaymentIcon.png)
+
+![](/assets/MyPayment.png)
+
+Condition\*
+
+1\) Items in cart but failed payment process, member can do payment again.
+
+2\) Or member can cancel the order in this record. 
+
+3\) Member can contact with merchant.
+
+---
+
 #### 7\) My Order
 
 ![](/assets/MyOrderIcon.png)
 
 ![](/assets/MyOrder1.png)
-
-![](/assets/MyOrder2.png)
-
-Sales Order \(代付款）Payment - Items which not yet complete the payment step. Payment which waiting to complete.
-
-Payment, Cancelled order, Contact Seller 
 
 #### Important!
 
@@ -65,7 +75,7 @@ Merchant Shop Name
 
 Items Name from Merchant Shop
 
-Image of the product 
+Image of the product
 
 Total Quantity from Merchant Shop
 
