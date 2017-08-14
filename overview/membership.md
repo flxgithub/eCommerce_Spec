@@ -90,7 +90,7 @@ One order can have many purchase products. Click on order if which to proceed fo
 
 ![](/assets/Refund6.png)
 
-Mobile do refund 
+Mobile do refund
 
 ![](/assets/Return4.png)
 
@@ -109,21 +109,15 @@ Type of reason:
 
 Other refund reason: User type own reason
 
-Proof of Image 
+Proof of Image
 
 Submit button of refund
 
 ![](/assets/Refund7.png)
 
-Once clicked submit button, refund or retrun process will send mercant to approve refund process. 
+Once clicked submit button, refund or retrun process will send mercant to approve refund process.
 
-
-
-
-
-
-
-# 
+Rufund status record will update on \(7\)My Order.
 
 # Use Case Assumptions, Preconditions and Post-conditions
 
