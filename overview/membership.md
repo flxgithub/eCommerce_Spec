@@ -45,7 +45,9 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrderIcon.png)
 
+![](/assets/MyOrder1.png)
 
+4 important sections - Payment, Shipping, Review. 
 
 #### 8\) Return & Refund Process
 
