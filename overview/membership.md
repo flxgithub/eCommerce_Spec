@@ -49,7 +49,9 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrder2.png)
 
-Sales Order \(代付款）Payment - Items which not yet complete the payment step. 
+Sales Order \(代付款）Payment - Items which not yet complete the payment step. Payment which waiting to complete.
+
+Payment, Cancelled order, Contact Seller 
 
 #### Important!
 
@@ -62,6 +64,8 @@ Each Order display
 Merchant Shop Name
 
 Items Name from Merchant Shop
+
+Image of the product 
 
 Total Quantity from Merchant Shop
 
