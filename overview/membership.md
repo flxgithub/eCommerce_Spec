@@ -148,7 +148,7 @@ Delivery fees
 
 Total Amount
 
-#### Once user submitted refund, refund in progress, return order status update. 
+#### Once user submitted refund, refund in progress, return order status update.
 
 ![](/assets/Refund8.png)![](/assets/Refund9.png)
 
@@ -223,8 +223,6 @@ Rufund status record will update on \(7\)My Order.
 
 ##### 
 
-
-
 # Refund Status
 
 #### 1\) Fail and closed
@@ -246,6 +244,8 @@ Agreed details:
 -Refund ID
 
 -Apply Date and Time
+
+-Refund Status \(Refund Successful, Refund Closed\) 
 
 ![](/assets/Refundsuccessful.png)![](/assets/RefundClosed.png)
 
