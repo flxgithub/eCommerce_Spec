@@ -213,6 +213,10 @@ Rufund status record will update on \(7\)My Order.
 
 ![](/assets/RefundFlow.png)
 
+##### If refund in progress, return order status update.
+
+![](/assets/Refund8.png)
+
 # Refund Status
 
 #### 1\) Fail and closed
