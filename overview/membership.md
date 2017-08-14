@@ -23,6 +23,8 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 #### 1\) Click on your own profile
 
+![](/assets/ProfileIcon.png)
+
 ![](/assets/Profile Management.png)![](/assets/账户管理.png)
 
 注：
@@ -67,15 +69,15 @@ Condition\*
 
 #### ![](/assets/Shipped.png)
 
-Display Product has been out for delivery. 
+Display Product has been out for delivery.
 
 System can update \*:-
 
-1\) Buyer confirm receive order 
+1\) Buyer confirm receive order
 
 2\) Tracking of parcel shipment
 
-3\) Delay receive product date and time  
+3\) Delay receive product date and time
 
 ---
 
