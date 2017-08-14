@@ -27,19 +27,19 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/Profile Management.png)![](/assets/账户管理.png)
 
-注：
+Attention注：
 
-× 真实名：在注册后，是不支持被更改。
+× Actual name personally not allow to change  真实名：在注册后，是不支持被更改。
 
-× 用户名：4-20个字符，可由英文，数字，“\_"，"-"组成
+× Username : 4-20 alphabet, Uppercase, lowercase, "\_“， ‘’-‘’.    用户名：4-20个字符，可由英文，数字，“\_"，"-"组成。
 
-× 性别：男，女，保密
-
-当用户点击会员特权，会进入“会员特区”
+× Sex : Male, Female, Not reveal 性别：男，女，保密
 
 ---
 
 #### ![](/assets/MenbershipIcon.png)
+
+当用户点击会员特权，会进入“会员特区”
 
 #### 2\) Membership
 
