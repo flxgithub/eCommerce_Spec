@@ -47,6 +47,10 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrder1.png)
 
+![](/assets/MyOrder2.png)
+
+Sales Order \(代付款）Payment - Items which not yet complete the payment step. 
+
 #### Important!
 
 #### Order Status - All, Payment, Shipping, Review, Refund Details, Ranking\(Filter\)
