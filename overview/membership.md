@@ -35,6 +35,10 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 当用户点击会员特权，会进入“会员特区”
 
+---
+
+#### ![](/assets/MenbershipIcon.png)
+
 #### 2\) Membership
 
 ![](/assets/会员特区.png)
@@ -51,7 +55,7 @@ Condition\*
 
 1\) Items in cart but failed payment process, member can do payment again.
 
-2\) Or member can cancel the order in this record. 
+2\) Or member can cancel the order in this record.
 
 3\) Member can contact with merchant.
 
