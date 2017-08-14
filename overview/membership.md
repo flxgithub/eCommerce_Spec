@@ -41,9 +41,15 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ---
 
+#### 7\) My Order
+
+![](/assets/MyOrderIcon.png)
+
+
+
 #### 8\) Return & Refund Process
 
-![](/assets/Return.png)Click on return icon in membership page
+![](/assets/Return.png)
 
 ###### ![](/assets/Refund2.png)
 
@@ -118,6 +124,14 @@ Submit button of refund
 Once clicked submit button, refund or retrun process will send mercant to approve refund process.
 
 Rufund status record will update on \(7\)My Order.
+
+
+
+![](/assets/RefundFlow.png)
+
+---
+
+# 
 
 # Use Case Assumptions, Preconditions and Post-conditions
 
