@@ -47,7 +47,7 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrder1.png)
 
- important sections - Payment, Shipping, Review, .
+Important sections - Payment, Shipping, Review, Refund 
 
 #### 8\) Return & Refund Process
 
@@ -81,8 +81,6 @@ Shpping Address
 Receiver
 
 Delivery Time \(Morning Shift 10-11am , Afternoon Shift 12-4pm\)
-
-
 
 ---
 
