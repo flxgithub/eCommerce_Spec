@@ -53,6 +53,8 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ###### ![](/assets/Refund2.png)
 
+###### ![](/assets/import.png)
+
 ###### Lists of purchased product \(Display of product only available within refund/ return policy days\)
 
 * Date of purchase per order 
@@ -124,8 +126,6 @@ Submit button of refund
 Once clicked submit button, refund or retrun process will send mercant to approve refund process.
 
 Rufund status record will update on \(7\)My Order.
-
-
 
 ![](/assets/RefundFlow.png)
 
