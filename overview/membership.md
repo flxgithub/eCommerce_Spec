@@ -47,7 +47,9 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrder1.png)
 
-Important sections - Payment, Shipping, Review, Refund
+#### Important Order Status - All, Payment, Shipping, Review, Refund \(Filter\) 
+
+
 
 #### 8\) Return & Refund Process
 
@@ -153,21 +155,21 @@ Rufund status record will update on \(7\)My Order.
 
 #### 2\) Successful
 
-Amount, Refund time and date, Check amount refund in "my wallet" 
+Amount, Refund time and date, Check amount refund in "my wallet"
 
-Agreed details: 
+Agreed details:
 
--Merchant 
+-Merchant
 
--Type: Refund or Return 
+-Type: Refund or Return
 
--Amount 
+-Amount
 
--Reason 
+-Reason
 
 -Refund ID
 
--Apply Date and Time 
+-Apply Date and Time
 
 ![](/assets/Refundsuccessful.png)![](/assets/RefundClosed.png)
 
