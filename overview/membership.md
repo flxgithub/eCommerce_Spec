@@ -147,13 +147,29 @@ Rufund status record will update on \(7\)My Order.
 
 ![](/assets/RefundFlow.png)
 
-# Refund Status 
+# Refund Status
 
-#### 1\) Fail and closed 
+#### 1\) Fail and closed
 
 #### 2\) Successful
 
-# ![](/assets/Refundsuccessful.png)![](/assets/RefundClosed.png)
+Amount, Refund time and date, Check amount refund in "my wallet" 
+
+Agreed details: 
+
+-Merchant 
+
+-Type: Refund or Return 
+
+-Amount 
+
+-Reason 
+
+-Refund ID
+
+-Apply Date and Time 
+
+![](/assets/Refundsuccessful.png)![](/assets/RefundClosed.png)
 
 # Use Case Assumptions, Preconditions and Post-conditions
 
