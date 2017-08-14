@@ -245,7 +245,7 @@ Agreed details:
 
 -Apply Date and Time
 
--Refund Status \(Refund Successful, Refund Closed\) 
+-Refund Status \(Refund Successful, Refund Closed\)
 
 ![](/assets/Refundsuccessful.png)![](/assets/RefundClosed.png)
 
