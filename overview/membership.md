@@ -61,6 +61,24 @@ Condition\*
 
 ---
 
+#### 5\) Shipping （代发货）
+
+#### ![](/assets/ShipingIcon.png)
+
+#### ![](/assets/Shipped.png)
+
+Display Product has been out for delivery. 
+
+System can update \*:-
+
+1\) Buyer confirm receive order 
+
+2\) Tracking of parcel shipment
+
+3\) Delay receive product date and time  
+
+---
+
 #### 7\) My Order
 
 ![](/assets/MyOrderIcon.png)
