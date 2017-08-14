@@ -47,15 +47,13 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrder1.png)
 
-4 important sections - Payment, Shipping, Review. 
+ important sections - Payment, Shipping, Review, .
 
 #### 8\) Return & Refund Process
 
 ![](/assets/Return.png)
 
 ###### ![](/assets/Refund2.png)
-
-###### ![](/assets/import.png)
 
 ###### Lists of purchased product \(Display of product only available within refund/ return policy days\)
 
@@ -65,6 +63,26 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 * Status of the product \(Pending Delivering, Delivered, Refund, Return Product 代出库，已收货，已退款，已退货）
 
 One order can have many purchase products. Click on order if which to proceed for return and refund.
+
+###### ![](/assets/import.png)
+
+###### Each Order details must have:-
+
+Shipping status\(Pending Delivering, Delivered, Refund, Return Product 代出库，已收货，已退款，已退货）
+
+Shipping company details, Tracking number \(Ex: DHL - P10002L\)
+
+Date, Time Ordered \( 2017-8-14 12:20:00 \)
+
+Order ID \(1002\)
+
+Shpping Address
+
+Receiver
+
+Delivery Time \(Morning Shift 10-11am , Afternoon Shift 12-4pm\)
+
+
 
 ---
 
