@@ -47,7 +47,7 @@ When user click on My Account / My Profile Icon on footer icon. Link to the page
 
 ![](/assets/MyOrder1.png)
 
-Important sections - Payment, Shipping, Review, Refund 
+Important sections - Payment, Shipping, Review, Refund
 
 #### 8\) Return & Refund Process
 
@@ -147,9 +147,13 @@ Rufund status record will update on \(7\)My Order.
 
 ![](/assets/RefundFlow.png)
 
----
+# Refund Status 
 
-# 
+#### 1\) Fail and closed 
+
+#### 2\) Successful
+
+# ![](/assets/Refundsuccessful.png)![](/assets/RefundClosed.png)
 
 # Use Case Assumptions, Preconditions and Post-conditions
 
