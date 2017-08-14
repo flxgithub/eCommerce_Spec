@@ -148,6 +148,14 @@ Delivery fees
 
 Total Amount
 
+#### Once user submitted refund, refund in progress, return order status update. 
+
+![](/assets/Refund8.png)![](/assets/Refund9.png)
+
+If Merchant agreed to process refund. Merchant address will display on top.
+
+Only agreed refund will allows member to fill in refund details.
+
 ---
 
 #### Condition update in system
@@ -213,9 +221,9 @@ Rufund status record will update on \(7\)My Order.
 
 ![](/assets/RefundFlow.png)
 
-##### If refund in progress, return order status update.
+##### 
 
-![](/assets/Refund8.png)
+
 
 # Refund Status
 
