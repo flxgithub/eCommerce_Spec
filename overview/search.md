@@ -4,7 +4,7 @@
 
 ![](/assets/Search01.png)
 
-### Product Search 
+### Product Search
 
 ---
 
@@ -32,6 +32,12 @@
 * Color \(Red, Orange, Yellow, Green......\)
 * Size \(S, M, L, XL\)
 * Shape \( Extra-small, medium, Extra-big\) 
+
+![](/assets/SearchCombine.png)
+
+
+
+![](/assets/SearchCombine2.png)
 
 
 
