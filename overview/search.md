@@ -2,7 +2,7 @@
 
 ---
 
-![](/assets/Search01.png)
+![](/assets/Search01.png)![](/assets/SearchCombine3.png)
 
 ### Product Search
 
@@ -34,8 +34,6 @@
 * Shape \( Extra-small, medium, Extra-big\) 
 
 ![](/assets/SearchCombine.png)
-
-
 
 ![](/assets/SearchCombine2.png)
 
