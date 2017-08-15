@@ -8,17 +8,17 @@ Product can be search by :-
 
 ---
 
--Product Category 
+-Product Category
 
--Product Model 
+-Product Model
 
 -Product Name
 
--Price Range 
+-Price Range
 
 ---
 
--Type \(Color, Brand, Female, Male\) 
+-Type \(Color, Brand, Female, Male\)
 
 -Features \(Discount, Free shipping, collect point\)
 
@@ -26,7 +26,7 @@ Product can be search by :-
 
 Advance Features
 
-------------------------------
+---
 
 * Season \(Autunm, Winter, Summer, Spring \)
 * Color \(Red, Orange, Yellow, Green......\)
