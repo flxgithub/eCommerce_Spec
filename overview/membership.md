@@ -49,7 +49,7 @@ Attention注：
 
 #### 3\) My Activity
 
-#### ![](/assets/MyActivityIcon.png) 
+#### ![](/assets/MyActivityIcon.png)
 
 #### 
 
@@ -126,7 +126,7 @@ Order Status: Successfull or Fail
 
 One order can have many purchase products. Click on order if which to proceed for return and refund.
 
-###### ![](/assets/import.png)
+###### ![](/assets/import.png)![](/assets/Refund10.png)
 
 ###### Each Order details must have:-
 
