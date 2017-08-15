@@ -47,6 +47,12 @@ Attention注：
 
 ---
 
+#### 3\) My Activity
+
+#### ![](/assets/MyActivityIcon.png) 
+
+#### 
+
 #### 4\) Payment \(代付款）
 
 ![](/assets/PaymentIcon.png)
@@ -158,7 +164,7 @@ Only agreed refund will allows member to fill in refund details.
 
 ---
 
-#### Condition update in system
+#### Update in system
 
 1\) Status\*
 
