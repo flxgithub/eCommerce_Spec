@@ -2,11 +2,11 @@
 
 ---
 
-For Mobile View
+##### For Mobile View
 
 ![](/assets/Category.jpg)![](/assets/category2.jpg)
 
 ![](/assets/CategoryCompare.png)
 
-![](/assets/Navigation.png)     
+![](/assets/Navigation.png)
 

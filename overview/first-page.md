@@ -10,5 +10,5 @@
 
 ![](/assets/LandingPage2.png)
 
-![](/assets/Landingpage1.jpg)
+![](/assets/Landingpage1.jpg)![](/assets/Landingpage2.jpg)
 
