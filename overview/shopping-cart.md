@@ -2,7 +2,13 @@
 
 ---
 
-Display of item in cart
+#### Add Item to Cart 
+
+![](/assets/ProductAddToCart.png)
+
+
+
+####  Product in cart
 
 ![](/assets/CartItem.png)
 
