@@ -2,6 +2,8 @@
 
 ---
 
+##### In Mobile View
+
 ![](/assets/Search01.png)![](/assets/SearchCombine3.png)
 
 ### Product Search
@@ -37,9 +39,9 @@
 
 ![](/assets/SearchCombine2.png)
 
+---
 
-
-In desktop 
+##### In Desktop View
 
 ![](/assets/DesktopSearch.png)
 
