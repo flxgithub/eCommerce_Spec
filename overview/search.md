@@ -45,3 +45,15 @@
 
 ![](/assets/DesktopSearch.png)
 
+#### Filter search by options![](/assets/filterByOption.png)
+
+Categories:-  Jeans               Type:- Cloths
+
+Attribute Value \(Cloths\) : Color, Type, Style
+
+Filter Option search: Item type, style, size, color, sleeve lenght, material, collection, new arrival, restock, old stock, hits items   
+
+
+
+
+
