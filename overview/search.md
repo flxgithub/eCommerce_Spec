@@ -51,9 +51,7 @@ Categories:-  Jeans               Type:- Cloths
 
 Attribute Value \(Cloths\) : Color, Type, Style
 
-Filter Option search: Item type, style, size, color, sleeve lenght, material, collection, new arrival, restock, old stock, hits items   
+Filter Option search: Item type, style, size, color, sleeve lenght, material, collection, new arrival, restock, old stock, hits items
 
-
-
-
+Search result : Display of total items in category 
 
