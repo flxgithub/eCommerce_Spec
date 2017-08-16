@@ -2,13 +2,15 @@
 
 ---
 
-#### Add Item to Cart 
+#### Add Item to Cart
 
 ![](/assets/ProductAddToCart.png)
 
+Quick View Pop Out
 
+![](/assets/ProductToCart2.png)
 
-####  Product in cart
+#### Product in cart
 
 ![](/assets/CartItem.png)
 
