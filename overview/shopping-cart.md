@@ -14,6 +14,14 @@ Important\*
 * System able to edit item in cart 
 * System able to show the total amount of selected product
 * Sytem able to click "done" after modify the quantity or type of the product in cart. 
+* Checkout to Confirm Order 
+
+Comfirm Order\*
+
+* Listed of Receiver and shipping address
+* Shipping company 
+
+
 
 
 
