@@ -1,4 +1,4 @@
-Cart 购物车
+## Cart 购物车
 
 ---
 
@@ -20,8 +20,6 @@ Comfirm Order\*
 
 * Listed of Receiver and shipping address
 * Shipping company 
-
-
 
 
 

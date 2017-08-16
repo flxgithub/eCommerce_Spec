@@ -31,7 +31,5 @@ Please refer to PPT - App商城分析文档1.0
 
 ---
 
-
-
-
+![](/assets/Action.png)
 
