@@ -95,7 +95,7 @@ Condition\*
 
 #### ![](/assets/Shipped.png)
 
-##### Buyer confirm receive order 
+##### Buyer confirm receive order
 
 Display Product has been out for delivery.
 
@@ -108,6 +108,12 @@ System can update \*:-
 3\) Delay receive product date and time
 
 ---
+
+#### 6\) Review 
+
+![](/assets/Review.png)
+
+
 
 #### 7\) My Order
 
