@@ -51,6 +51,19 @@ Attention注：
 
 #### ![](/assets/MyActivityIcon.png)
 
+#### Action with system:-
+
+Member
+
+* Wishlist - Keep favorite items into pocket with unique member ID
+* Circle - Add favorite of article to circle
+* History - Keep track of browsing record \(Viewed Products\)
+* Chat - Link to chat room \( chat with merchant\)
+
+  
+
+
+
 #### ![](/assets/MyActivity.png)
 
 #### 
