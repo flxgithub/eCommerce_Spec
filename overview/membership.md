@@ -60,7 +60,7 @@ Member
 * History - Keep track of browsing record \(Viewed Products\)
 * Chat - Link to chat room \( chat with merchant\)
 
-Admin 
+Admin
 
 * Wishlist - Keep track of favorite product 
 * Circle - Post Articles, keep track of customer group
