@@ -51,6 +51,10 @@ Attention注：
 
 #### ![](/assets/MyActivityIcon.png)
 
+#### ![](/assets/MyActivity.png)
+
+#### 
+
 #### 
 
 #### 4\) Payment \(代付款）
@@ -254,6 +258,12 @@ Agreed details:
 -Refund Status \(Refund Successful, Refund Closed\)
 
 ![](/assets/Refundsuccessful.png)![](/assets/RefundClosed.png)
+
+---
+
+# 11\) My Wallet
+
+![](/assets/Wallet.png)
 
 # Use Case Assumptions, Preconditions and Post-conditions
 
