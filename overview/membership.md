@@ -95,6 +95,8 @@ Condition\*
 
 #### ![](/assets/Shipped.png)
 
+##### Buyer confirm receive order 
+
 Display Product has been out for delivery.
 
 System can update \*:-
