@@ -39,6 +39,8 @@
 
 ![](/assets/SearchCombine2.png)
 
+![](/assets/SearchFilter.png)
+
 ---
 
 ##### In Desktop View
@@ -54,8 +56,4 @@
 **Filter Option search:** Item type, style, size, color, sleeve lenght, material, collection, new arrival, restock, old stock, hits items
 
 **Search \)Result : **Display of total items in category
-
-
-
-
 
