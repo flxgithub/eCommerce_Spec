@@ -41,6 +41,8 @@
 
 ![](/assets/SearchFilter.png)
 
+Filter Products by category and shipping country![](/assets/FilterCountry.png)
+
 ---
 
 ##### In Desktop View
