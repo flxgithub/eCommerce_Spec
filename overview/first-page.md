@@ -28,13 +28,19 @@ Many shoppers may find it confusing and worrying as they won't know the final pr
 
 For easy without confusing, system must not set more than 2 currency to one country.
 
-
-
 #### Optimize your product description
 
 Reason:-
 
-People only want to see the information when they click on it.
+* Consider information in drop down menu, tabs that allow you to write more content. 
+
+* People only want to see the information when they click on it.
 
 ![](/assets/ProductDetails.png)
+
+![](/assets/ProductDetails1.png)
+
+
+
+
 
