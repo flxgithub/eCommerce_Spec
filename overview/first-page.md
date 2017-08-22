@@ -28,3 +28,13 @@ Many shoppers may find it confusing and worrying as they won't know the final pr
 
 For easy without confusing, system must not set more than 2 currency to one country.
 
+
+
+#### Optimize your product description
+
+Reason:-
+
+People only want to see the information when they click on it.
+
+![](/assets/ProductDetails.png)
+
