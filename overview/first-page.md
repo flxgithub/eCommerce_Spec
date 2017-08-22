@@ -32,7 +32,7 @@ For easy without confusing, system must not set more than 2 currency to one coun
 
 Reason:-
 
-* Consider information in drop down menu, tabs that allow you to write more content. 
+* Consider information in drop down menu, tabs that allow you to write more content.
 
 * People only want to see the information when they click on it.
 
@@ -41,6 +41,8 @@ Reason:-
 ![](/assets/ProductDetails1.png)
 
 
+
+#### Show of estimated time of arrival![](/assets/EstimatedTime.png)
 
 
 
