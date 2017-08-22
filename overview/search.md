@@ -57,5 +57,11 @@ Filter Products by category and shipping country![](/assets/FilterCountry.png)
 
 **Filter Option search:** Item type, style, size, color, sleeve lenght, material, collection, new arrival, restock, old stock, hits items
 
-**Search \)Result : **Display of total items in category
+**Search Result : **Display of total items in category
+
+
+
+#### Search brand name by alphabent ![](/assets/SearchLaptop1.png)
+
+
 
