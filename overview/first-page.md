@@ -12,3 +12,25 @@
 
 ![](/assets/Landingpage1.jpg)![](/assets/Landingpage2.jpg)
 
+
+
+### Few example of high converting Product Page 
+
+---
+
+### Important of currency converter
+
+---
+
+![](/assets/CurrencyRegion.png)
+
+#### For multi country and currency
+
+Many shoppers may find it confusing and worrying as they won't know the final price.
+
+For easy without confusing, system set less than 2 currency to one country.
+
+
+
+
+
