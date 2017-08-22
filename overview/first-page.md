@@ -40,9 +40,11 @@ Reason:-
 
 ![](/assets/ProductDetails1.png)
 
+### Show of estimated time of arrival![](/assets/EstimatedTime.png)
 
+### Using persuasive countdown and barcode
 
-#### Show of estimated time of arrival![](/assets/EstimatedTime.png)
+![](/assets/countdown.png)
 
 
 
