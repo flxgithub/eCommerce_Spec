@@ -12,9 +12,7 @@
 
 ![](/assets/Landingpage1.jpg)![](/assets/Landingpage2.jpg)
 
-
-
-### Few example of high converting Product Page 
+### Few example of high converting Product Page
 
 ---
 
@@ -28,9 +26,5 @@
 
 Many shoppers may find it confusing and worrying as they won't know the final price.
 
-For easy without confusing, system set less than 2 currency to one country.
-
-
-
-
+For easy without confusing, system must not set more than 2 currency to one country.
 
