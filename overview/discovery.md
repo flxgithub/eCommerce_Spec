@@ -1,4 +1,4 @@
-### Discovery 发现
+### Wishlist 
 
 ---
 
