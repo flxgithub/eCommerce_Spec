@@ -6,6 +6,8 @@
 
 此画面，是由广告布局，流动活动广告，一分为二商品排列，一分为四商品排列，折扣活动，秒杀活动，品质购，特色购，推荐购
 
+#### Mobile View
+
 ![](/assets/LandingPage1.png)
 
 ![](/assets/LandingPage2.png)
@@ -21,6 +23,8 @@
 ---
 
 ![](/assets/CurrencyRegion.png)
+
+![](/assets/SetCurrency.png)![](/assets/MyPreferences.png)
 
 #### For multi country and currency
 
@@ -49,10 +53,9 @@ Reason:-
 #### Product Display Section
 
 * Few recommended brand name in one section \( Few section combine in a landing page\)  ![](/assets/Section.png)
+* ![](/assets/CurrentSection.png)
 
-#### Promo display + ID purchase control 
+#### Promo display + ID purchase control
 
 ![](/assets/PurchaseControl.png)
-
-
 
