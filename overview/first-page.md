@@ -46,7 +46,9 @@ Reason:-
 
 ![](/assets/countdown.png)
 
+#### Product Display Section 
 
+* Few recommended brand name in one section \( Few section combine in a landing page\)  ![](/assets/Section.png)
 
 
 
