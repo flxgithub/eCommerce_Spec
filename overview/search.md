@@ -59,9 +59,11 @@ Filter Products by category and shipping country![](/assets/FilterCountry.png)
 
 **Search Result : **Display of total items in category
 
-
-
 #### Search brand name by alphabent ![](/assets/SearchLaptop1.png)
+
+![](/assets/TaobaoSearch.png)
+
+
 
 
 
